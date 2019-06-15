@@ -1,6 +1,6 @@
 ---
 building: Fishery Sciences
-title: Fishery Sciences
+title: Fishery Sciences 1st Floor
 title_directory: Fishery Sciences
 title_long: ''
 room: 1st Floor

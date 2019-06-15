@@ -1,6 +1,6 @@
 ---
 building: Gates
-title: Gates
+title: Gates Law Library
 title_directory: ''
 title_long: ''
 room: Basement
