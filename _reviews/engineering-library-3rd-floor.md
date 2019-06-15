@@ -4,11 +4,11 @@ title: Engineering Library 3rd Floor
 title_directory: ''
 title_long: ''
 room: 3rd Floor
-review_date: 2014-04-27 17:00:00 +0000
+review_date: 2014-04-27T17:00:00.000+00:00
 photo_date: 
 
 ---
-I’m BACK IN THIS. You thought I slept on this blog didn’t you? The truth is, I don’t sleep anymore. All I do is take prolonged naps. You think I’m sleeping but then I sense a disturbance in my brain’s alpha waves and then BOOM I’m writing blog posts while in the meantime you’re taking pictures of your coffee foam the barista with thick-rimmed glasses frames made into a heart shape and posting all of them on instagram.
+I’m BACK IN THIS. You thought I slept on this blog didn’t you? The truth is, I don’t sleep anymore. All I do is take prolonged naps. You think I’m sleeping but then I sense a disturbance in my brain’s alpha waves and then BOOM I’m writing blog posts while in the meantime you’re taking pictures of your coffee foam the barista with thick-rimmed glasses frames made into a heart shape and posting all of them on Instagram.
 
 Every once in a while (maybe 3 or 4 times per academic quarter) I feel the need to be extremely productive, the desire to do so being fed by doing nothing for the previous three weeks. When this feeling hits me one of my go-to spots to crank out work is the Engineering Library. This is for numerous reasons. First, everyone that studies here is smarter than me, so I feel like I need to step up my academic game whenever I go here. Second, it’s probably the overall quietest building on campus. Pretty much the only noise you hear is mouse clicks or a group study session in one of the study rooms. The thing about their noise is that they’re actually studying as opposed to debating the attractiveness of the Franco brothers or watching Netflix on the TV’s (both of which are commonly observed phenomena in PACCAR and Odegaard). The study group right by me is trying to get everyone to use the Taylor series to do crazy engineering shit. Basically the Engineering Library has the “everyone here is smarter than me so I need to try to not be the dumbest, most unproductive person here” effect so I use it to my advantage.
 
