@@ -151,6 +151,12 @@ img:not([src]) {
   to {
     transform: rotate(540deg) translateX(3px) rotate(-180deg); } }
 
+.directoryRow {
+  padding-top: 0.6rem; 
+  padding-bottom: 0.6rem; 
+  break-inside: avoid;
+}
+
 /* not small */
 @media screen and (min-width: 60em) {
 
@@ -159,6 +165,12 @@ img:not([src]) {
      -moz-column-count: 2;
           column-count: 2;
 	}
+
+  .directoryRow {
+    padding-top: 0.8rem; 
+    padding-bottom: 0.8rem; 
+    break-inside: avoid;
+  }
 
 	@-webkit-keyframes orbit {
   from {
@@ -266,5 +278,7 @@ img:not([src]) {
 	animation-delay: 1s;
 }
 
-
+#home .list li:last-child {
+  margin-bottom: 0;
+}
 

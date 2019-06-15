@@ -66,90 +66,66 @@ reviews.
 
 				<div class="fl w-100 cf pr3-ns pr0 lh-title mt2 columns">
 					
+					<!-- sorts one with just Misc. -->
+					{% assign misc = site.reviews | where: "building", "Miscellaneous" %}
+					{% assign misc = misc | sort: 'review_date' %}
+
+					<!-- sorts alphabetically -->
+					{% assign sorted = site.reviews | sort: 'building' %}
+
+
+					{% for i in sorted %}
+					{% if i.building != "Miscellaneous" %}
+
 					<!-- row -->
-					<div class="bt b--purple bw1 cf" style="padding-top: 0.8rem; padding-bottom: 0.8rem; break-inside: avoid;">
+					<div class="bt b--purple bw1 cf directoryRow">
 
 						<!-- title -->
 						<div class="fl w-50 fw4">
-							Fisheries Teaching & Research Center
+							{{i.building}}
 						</div>
+
+						
 
 						<!-- floor -->
 						<div class="fl w-50 fw4">
 							<ul class="list pl0 mv0 tr">
-								<li class="mb2">1st Floor</li>
+								<li class="mb2">{{i.room}}</li>
+							</ul>
+						</div>
+
+						{% assign prevItem = i.building %}
+
+					</div>
+
+
+					{% endif %}
+					{% endfor %}
+
+	
+					<!-- row -->
+					<div class="bt bb b--purple bw1 cf directoryRow">
+
+						<!-- title -->
+						<div class="fl w-50 fw4">
+							Miscellaneous
+						</div>
+						
+						<!-- floor -->
+						<div class="fl w-50 fw4">
+							<ul class="list pl0 mv0 tr">
+								{% for i in misc %}
+								<li class="mb2">{{i.room}}</li>
+								{% endfor %}
 							</ul>
 						</div>
 
 					</div>
 
-					<!-- row -->
-					<div class="bt b--purple bw1 cf" style="padding-top: 0.8rem; padding-bottom: 0.8rem; break-inside: avoid;">
+					
 
-						<!-- title -->
-						<div class="fl w-50 fw4">
-							Fisheries Teaching & Research Center
-						</div>
 
-						<!-- floor -->
-						<div class="fl w-50 fw4">
-							<ul class="list pl0 mv0 tr">
-								<li class="mb2">1st Floor</li>
-							</ul>
-						</div>
-
-					</div>
-
-					<!-- row -->
-					<div class="bt b--purple bw1 cf" style="padding-top: 0.8rem; padding-bottom: 0.8rem; break-inside: avoid;">
-
-						<!-- title -->
-						<div class="fl w-50 fw4">
-							Fisheries Teaching & Research Center
-						</div>
-
-						<!-- floor -->
-						<div class="fl w-50 fw4">
-							<ul class="list pl0 mv0 tr">
-								<li class="mb2">1st Floor</li>
-							</ul>
-						</div>
-
-					</div>
-
-					<!-- row -->
-					<div class="bt b--purple bw1 cf" style="padding-top: 0.8rem; padding-bottom: 0.8rem; break-inside: avoid;">
-
-						<!-- title -->
-						<div class="fl w-50 fw4">
-							Fisheries Teaching & Research Center
-						</div>
-
-						<!-- floor -->
-						<div class="fl w-50 fw4">
-							<ul class="list pl0 mv0 tr">
-								<li class="mb2">1st Floor</li>
-							</ul>
-						</div>
-
-					</div>
-
-					<!-- row -->
-					<div class="bt b--purple bw1 cf" style="padding-top: 0.8rem; padding-bottom: 0.8rem; break-inside: avoid;">
-
-						<!-- title -->
-						<div class="fl w-50 fw4">
-							Fisheries Teaching & Research Center
-						</div>
-
-						<!-- floor -->
-						<div class="fl w-50 fw4">
-							<ul class="list pl0 mv0 tr">
-								<li class="mb2">1st Floor</li>
-							</ul>
-						</div>
-
-					</div>
+					
 
 					
 					

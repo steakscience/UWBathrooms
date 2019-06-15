@@ -3,7 +3,7 @@ building: Miscellaneous
 title: Haikus I
 title_directory: ''
 title_long: ''
-room: Haikus I
+room: Haikus
 review_date: 2013-03-11 17:00:00 +0000
 photo_date: 
 
