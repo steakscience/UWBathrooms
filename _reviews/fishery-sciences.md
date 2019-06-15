@@ -6,7 +6,6 @@ title_long: ''
 room: 1st Floor
 review_date: 2012-04-26 17:00:00 +0000
 photo_date: 
-published: false
 
 ---
 _“Go thou across the ground; go moan for man; go moan, go groan, go groan alone…”_
