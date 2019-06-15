@@ -51,6 +51,7 @@ fields:
     time_format: 
     display_utc: false
 pages:
+- _reviews/danny-s-good-bye.md
 - _reviews/gerberding-1st-floor.md
 - _reviews/sieg-1st-floor.md
 - _reviews/hub-b1.md
