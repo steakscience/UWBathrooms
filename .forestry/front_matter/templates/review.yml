@@ -1,4 +1,52 @@
 ---
 label: Review
 hide_body: false
-fields: []
+fields:
+- name: building
+  type: text
+  config:
+    required: true
+  label: Building
+  description: ie. Allen
+- name: title
+  type: text
+  config:
+    required: true
+  label: Title
+  description: ie. Kane
+- name: title_directory
+  type: text
+  config:
+    required: false
+  label: Title Directory
+  description: used in Directory
+- name: title_long
+  type: text
+  config:
+    required: false
+  label: Title Long
+  description: ie. Kane Hall
+- name: room
+  type: text
+  config:
+    required: true
+  label: Room
+  description: ie. 1st Floor
+- name: review_date
+  type: datetime
+  description: June 22, 2012
+  config:
+    required: true
+    date_format: MM DD, YYYY
+    time_format: 
+    display_utc: false
+  label: Review Date
+- name: photo_date
+  type: datetime
+  label: Photo Date
+  description: ''
+  config:
+    required: false
+    date_format: MM DD, YYYY
+    time_format: 
+    display_utc: false
