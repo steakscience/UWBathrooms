@@ -71,7 +71,7 @@ reviews.
 					{% assign misc = misc | sort: 'review_date' %}
 
 					<!-- sorts alphabetically -->
-					{% assign sorted = site.reviews | sort: 'building' %}
+					{% assign sorted = site.reviews | sort: 'title' %}
 					{% assign prev = "" %}
 
 					{% for i in sorted %}
@@ -89,11 +89,15 @@ reviews.
 					  <!-- floor -->
 					  <div class="fl w-50 fw4">
 					    <ul class="list pl0 mv0 tr">
-					      <li class="mb2">{{i.room}}</li>
+					      	<li class="mb2">
+					      		<a class="purple link" href="{{site.baseurl}}{{i.url}}">{{i.room}}</a>
+					  		</li>
 
 					  {% else %}
 
-					      <li class="mb2">{{i.room}}</li>
+					      <li class="mb2">
+					      		<a class="purple link" href="{{site.baseurl}}{{i.url}}">{{i.room}}</a>
+					  		</li>
 
 					  {% endif %}
 					      
@@ -123,7 +127,9 @@ reviews.
 						<div class="fl w-50 fw4">
 							<ul class="list pl0 mv0 tr">
 								{% for i in misc %}
-								<li class="mb2">{{i.room}}</li>
+								<li class="mb2">
+						      		<a class="purple link" href="{{site.baseurl}}{{i.url}}">{{i.room}}</a>
+						  		</li>
 								{% endfor %}
 							</ul>
 						</div>

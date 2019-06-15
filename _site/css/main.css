@@ -160,8 +160,14 @@ img:not([src]) {
   margin-top: -.125rem;
 }
 
-.directoryRow:nth-child(1) {
+.directoryRow:nth-child(1), #detail p:nth-child(1) {
   margin-top: 0;
+}
+
+#detail hr {
+  background-color: var(--purple);
+  border: none;
+  border-top: solid .125rem;
 }
 
 /* not small */

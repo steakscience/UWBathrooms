@@ -32,6 +32,10 @@ defaults:
     values:
       layout: "detail"
 
+hyphenate_filter:
+  left: 3
+  right: 2
+
 # Build settings
 markdown: kramdown
 permalink: /:title/
