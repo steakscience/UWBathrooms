@@ -51,6 +51,7 @@ fields:
     time_format: 
     display_utc: false
 pages:
+- _reviews/architecture-3rd-floor.md
 - _reviews/roberts-1st-floor.md
 - _reviews/parrington-2nd-floor.md
 - _reviews/haikus-i.md

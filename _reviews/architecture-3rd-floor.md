@@ -1,0 +1,21 @@
+---
+building: Architecture
+title: Architecture 3rd Floor
+title_directory: ''
+title_long: ''
+room: 3rd Floor
+review_date: 2013-09-29 17:00:00 +0000
+photo_date: 
+
+---
+WE’RE BACK AGAIN FOR ANOTHER YEAR FOOLS. After a long and arduous journey of battling adversities of all sorts, getting merked by summer school and my job and grappling with an existential crisis, UWbathrooms is back for another school year filled with dropping bathroom knowledge for the rest of the United States to heed. There is no coincidence that the return of UWbathrooms happened less than 24 hours after the announcement of D-Rose’s return to the Bulls. Our journeys have been compared to one another throughout the extent of our respective endeavors. Between the highest highs and the lowest lows there has been a determination to come back stronger and not let our city down. This is going to be that NBA championship season. ‘Cause seriously, fuck the Miami Heat.
+
+The personal storylines make the blog compelling but the bottom line is that UWbathrooms is read because of a demand for information. Where are the most private bathrooms to poop in for people that are scared of doing it in the presence of other people? Where are the bathrooms with dividers between the urinals because you’re self-conscious about your body? All of these questions are valid yet are largely unanswered, or their answers have not been consolidated into a lavatorial archive. So I apologize to all of those whose questions I left unanswered. I am sure you all managed to persevere and go out of your comfort zones for the time being but it’s time for these concerns to be met, results to be shown.
+
+Back to what I (arguably) do best. The Architecture Hall is conveniently halfway between my Monday-Wednesday-Friday classes so it’s a good point for me to go to the bathroom in between passing periods. My first and third classes are in Winkenwerder and as previous posts have referenced, it is not a highly-regarded bathroom by any means. The ones in Gould, where my second class is, are okay but their layout in the building is confusing. Architecture has one on the first and third floors and none on the second floor where the main entrance of the building is on, which seemed as a letdown at first due to the slight inconvenience, so I hoofed it up to the third floor. In hindsight going to the first floor was a much more efficient choice because you can slip out the side doors that lead directly outside rather than having to go up or down any additional stairs but when life gives you lemons you make lemonade, as the saying goes.
+
+The third floor bathrooms are located behind the little cafe setup that I had no idea existed until now but in the future might be very clutch if I need coffee in between classes. These bathrooms are unorthodox in that they are unisex. However, they are single-person bathrooms, which means absolute privacy if you have to poop. All you insecure, nervous bathroom-goers, this spot should be on your short list of favorites.
+
+The downside to these is that they have neither windows nor a semblance of a ventilation system, so the stall I went to was pretty stanky. The toilet paper dispenser was stubborn and wouldn’t let me unroll as many squares as I wanted to, but after calculating the tension coefficients (toilet paper tension _Ttp_) and recalibrating for the new changes in force it became manageable. The aspect of privacy did have some mental effects on me. I didn’t feel as rushed as I do in multi-stall bathrooms and that arguably raised the quality of my experience. One important thing to note is that the toilet is outfitted with a smart flusher, which can flush less water for #1 than for #2. They don’t give you any indication of this, which has its faults and merits, so push down on the handle for the former and pull upwards for the latter. I am made optimistic that someday these will be the norm and we can conserve water and save the planet and all the endangered species and whatever.
+
+Architecture/CM majors, I’m sorry I revealed your private sanctuary to the world. But can you blame me? Nothing’s really sacred anymore now that the internet capitalizes on anything exclusive. Don’t think of it like that, though. It’s less Hypebeast, more… whatever. I’m blessing you with some knowledge right now.
