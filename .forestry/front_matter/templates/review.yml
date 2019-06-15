@@ -51,6 +51,7 @@ fields:
     time_format: 
     display_utc: false
 pages:
+- _reviews/kane-basement.md
 - _reviews/paccar-1st-floor.md
 - _reviews/hutchinson-1st-floor-womens.md
 - _reviews/bagley.md
