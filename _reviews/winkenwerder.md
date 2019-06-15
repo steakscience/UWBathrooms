@@ -1,6 +1,6 @@
 ---
 building: Winkenwerder
-title: Winkenwerder
+title: Winkenwerder 1st Floor
 title_directory: Winkenwerder
 title_long: ''
 room: 1st Floor
