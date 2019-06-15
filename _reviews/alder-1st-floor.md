@@ -4,11 +4,11 @@ title: Alder 1st Floor
 title_directory: ''
 title_long: ''
 room: 1st Floor
-review_date: 2014-10-19 17:00:00 +0000
+review_date: 2014-10-19T17:00:00.000+00:00
 photo_date: 
 
 ---
-There’s a presentation thing going on in the Alder Commons that I had to be at just now. Even though Alder is a dormitory, they put classrooms and lecture halls and things in the first floor because what else are you going to put there? This was one of the new dorms built on south campus a year or two ago and the commons area is still pretty under-utilized so it’s ridiculously clean and tidy. It’s all just geometric contemporary whateverness that’s pretty much the norm for every new building they’re making on campus now.
+There’s a presentation thing going on in the Alder Commons that I had to be at just now. Even though Alder is a dormitory, they put classrooms and lecture halls and things in the first floor because what else are you going to put there? This was one of the new dorms built on West Campus a year or two ago and the commons area is still pretty under-utilized so it’s ridiculously clean and tidy. It’s all just geometric contemporary whateverness that’s pretty much the norm for every new building they’re making on campus now.
 
 There’s a little bathroom alcove in the rear (or front, depending on how you orient yourself from the main entrance to the commons in the south end of the building but that makes it closer to the north front where literally everyone else goes to enter the building) of the classrooms and lecture halls that’s around a couple corners. You kinda figure that there’s gotta be a bathroom around that area since it’s this isolated entity from the rest of the dormitory-designated area. There’s signs and stuff that assure you get to the bathroom safe and sound but it was cool how you intuitively know where the approximate location of the bathroom was based on the layout of that floor (that was the case for me at least).
 
