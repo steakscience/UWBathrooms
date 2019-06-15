@@ -3,7 +3,7 @@ building: Miscellaneous
 title: The Ave
 title_directory: ''
 title_long: ''
-room: The Ave
+room: The Ave Food Review
 review_date: 2012-07-31T17:00:00.000+00:00
 photo_date: 
 
