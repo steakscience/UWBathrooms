@@ -51,6 +51,7 @@ fields:
     time_format: 
     display_utc: false
 pages:
+- _reviews/fisheries-teaching-research-center-1st-floor.md
 - _reviews/ethnic-cultural-center-1st-floor.md
 - _reviews/gowen-all.md
 - _reviews/architecture-3rd-floor.md
