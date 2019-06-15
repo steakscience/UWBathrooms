@@ -9,6 +9,8 @@ sections:
   label: Reviews
   create: documents
   match: "**/*"
+  templates:
+  - review
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
