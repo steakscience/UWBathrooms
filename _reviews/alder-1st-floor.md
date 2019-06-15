@@ -1,0 +1,23 @@
+---
+building: Alder
+title: Alder 1st Floor
+title_directory: ''
+title_long: ''
+room: 1st Floor
+review_date: 2014-10-19 17:00:00 +0000
+photo_date: 
+
+---
+There’s a presentation thing going on in the Alder Commons that I had to be at just now. Even though Alder is a dormitory, they put classrooms and lecture halls and things in the first floor because what else are you going to put there? This was one of the new dorms built on south campus a year or two ago and the commons area is still pretty under-utilized so it’s ridiculously clean and tidy. It’s all just geometric contemporary whateverness that’s pretty much the norm for every new building they’re making on campus now.
+
+There’s a little bathroom alcove in the rear (or front, depending on how you orient yourself from the main entrance to the commons in the south end of the building but that makes it closer to the north front where literally everyone else goes to enter the building) of the classrooms and lecture halls that’s around a couple corners. You kinda figure that there’s gotta be a bathroom around that area since it’s this isolated entity from the rest of the dormitory-designated area. There’s signs and stuff that assure you get to the bathroom safe and sound but it was cool how you intuitively know where the approximate location of the bathroom was based on the layout of that floor (that was the case for me at least).
+
+I peed in the men’s room which seemed like it had never been used before based on how clean it was. Maybe most people can’t find it too easily after all. Even if people use it or not it can definitely accommodate the rush of people that need to pee after a long lecture. Nothing much to say here except that it’s a nice private bathroom that I’m pretty sure you can access until like 9 or 10pm. Even if there’s an event going on you could probably manage to infiltrate said event to use it as long as you don’t look like a dork and show up in sweatpants or something and you seem to know what you’re doing.
+
+Then I pooped in the “family restroom” adjacent to it because why not? Why poop in a tiny stall when you can poop in an entire room all by yourself? These places 100% ensure that nobody’s going to bother you while you poop. These places rock, but they’re not efficient when you’re thinking about large events since there won’t be enough space for every person that has to poop after a 200-person lecture to all get their own private room. But this is America, land of where you can damn well poop by yourself if your heart so desires, efficiency be damned. Carpe diem.
+
+Calling it the “family restroom” is a little misleading too because it implies that its intended use is for your family of four to all poop there together simultaneously. Besides, who would bring their entire family to an academic conference or symposium? You’d seriously bring your toddler with you even though you’re probably wealthy enough to afford child care for your kid and have him or her cry and yell and fidget in the middle of this lecture that you’re either obligated to go to or sincerely interested in the material being presented, meaning that there’s an incentive for you to really focus on the material at hand, yet you’re just going to bring your kid with you and make sure it isn’t obnoxious the whole time instead? Get real. Just call it the gender neutral or handicapped restroom or something. Just don’t bring your kid to lectures or anything remotely academic or important to your career, ever. Everyone will remember you as the person that brought their stupid kid with them and will like you less because your kid bothered them. You’re the equivalent of bringing your kid onto an airplane to have it cry the entire time and just not give a shit about it because what can you do, right?
+
+Anyway, the “family restroom” is neat except that the custodians put the toilet paper rolls in the wrong way (pulling the roll from the back). Always put the roll on the holder so that it rolls out clockwise and the sheet you pull is in the front. Why do people not always do this?
+
+The other issue with this one is that the single toilet is directly in front of the sink mirror so you’re watching your reflection poop and wipe your booty. This is a really strange experience. Not that I’m going to have to poop in front of strangers anytime soon but it made me very self-conscious and completely flipped the notion of privacy you typically get in the single occupancy bathrooms. Prepare for a psychological roller coaster when you use this one.

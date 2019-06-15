@@ -51,6 +51,7 @@ fields:
     time_format: 
     display_utc: false
 pages:
+- _reviews/alder-1st-floor.md
 - _reviews/hec-ed.md
 - _reviews/miller-3rd-floor.md
 - _reviews/engineering-library-3rd-floor.md
