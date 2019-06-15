@@ -51,5 +51,6 @@ fields:
     time_format: 
     display_utc: false
 pages:
+- _reviews/kane.md
 - _reviews/fishery-sciences.md
 - _reviews/winkenwerder.md
