@@ -4,15 +4,15 @@ title: Fishery Sciences 1st Floor
 title_directory: Fishery Sciences
 title_long: ''
 room: 1st Floor
-review_date: 2012-04-26 17:00:00 +0000
+review_date: 2012-04-26T17:00:00.000+00:00
 photo_date: 
 
 ---
 _“Go thou across the ground; go moan for man; go moan, go groan, go groan alone…”_
 
-_– Jack Kerouac… probably talking about using the crapper_
+_– Jack Kerouac, probably talking about using the crapper_
 
-The timing of UWBathrooms’ second post finds your correspondents at the figurative far ends of the earth. Our fledgling blog’s founder will be spending his weekend at the PNW’s drunkest land grant institution – Busch Light State University – competing in the Track & Field against the Cougs. This is a century old tradition, and in the past, the contest was analogous to the UW beating up its younger step-brother. Recent years have yielded more evenly matched scores, but one suspects that this is a result of the novel and unnerving Wazzu tactic: having country denizens spit at the city-folk Dawgs. Yeah, Aaron is probably being spit at right now. I urge all readers to keep him in your thoughts, _especially _while using a UW bathroom. I suppose there is a possibility for a remote restroom review from Pullman, but that seems particularly difficult, considering the commonly held belief that the entire town is a toilet.
+The timing of UWBathrooms’ second post finds your correspondents at the figurative far ends of the earth. Our fledgling blog’s founder will be spending his weekend at the PNW’s drunkest land grant institution — Busch Light State University — competing in the Track & Field against the Cougs. This is a century old tradition, and in the past, the contest was analogous to the UW beating up its younger step-brother. Recent years have yielded more evenly matched scores, but one suspects that this is a result of the novel and unnerving Wazzu tactic: having country denizens spit at the city-folk Dawgs. Yeah, Aaron is probably being spit at right now. I urge all readers to keep him in your thoughts, _especially_ while using a UW bathroom. I suppose there is a possibility for a remote restroom review from Pullman, but that seems particularly difficult, considering the commonly held belief that the entire town is a toilet.
 
 As for yours truly, I also undertook a journey to bring you today’s review. Some non-UWBathrooms business brought my own “business” to one of the far away locales on this sprawling Seattle campus. The Fishery Sciences building (FSH, colloquially pronounced “fish”) is tucked away in the Southwest corner of UW, across NE Boat Street from the UW Police Station. One feels safe and reassured by the po-po’s presence.
 
