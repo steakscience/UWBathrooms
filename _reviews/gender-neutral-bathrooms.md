@@ -4,7 +4,7 @@ title: Gender-Neutral Bathrooms
 title_directory: ''
 title_long: ''
 room: Gender-Neutral Bathrooms
-review_date: 2016-03-11 17:00:00 +0000
+review_date: 2016-03-11T17:00:00.000+00:00
 photo_date: 
 
 ---
@@ -14,7 +14,7 @@ UW is in the midst of a paradigm shift. In an effort to make campus more gender-
 
 This is neither good nor bad. People that are uncomfortable with participating in the gender-binary restroom system should have a place to use the bathroom in public and semi-public places without moms from mid-western suburbs who voted for Michele Bachmann in the 2012 GOP primaries complaining like “How am I going to explain to my children how a man dressed like a woman is allowed to use the women’s restroom because they feel like it?” ad nauseam. At the same time, these one-stall-per-room configurations are a more inefficient use of space if looking to accommodate a large group of people. Like virtually everything in the universe, there’s trade-offs, but I’m generally okay with putting up with the personally inconveniencing aspects of things if it benefits a marginalized demographic minority that’s had to deal with stupid petty bullshit since basically forever, as long as their experiencing something doesn’t compromise my experience of the same thing.
 
-All this being said, I think this trend of making single-occupant gender-neutral bathrooms (SOGNB’s) will continue to increase in popularity so the rest of y’all are going to have to deal with how to use them correctly, since a disturbingly large amount of UW students don’t have a clue how to conduct themselves in this type of environment. And this isn’t even from a being-insensitive-to-trans-ppl perspective. I don’t think anybody at UW is really outraged about the general existence of gender ambiguous people on campus and their conduct within restrooms. This all virtually stems from people physically being unable to indicate that a SOGNB is occupied or not. People regularly fail to lock the door behind them when they occupy a SOGNB, and I regularly run into these people and in turn regularly experience completely avoidable emotional trauma as I walk in to the sound of girls peeing or someone saying “Umm, there’s someone in here…”
+All this being said, I think this trend of making single-occupant gender-neutral bathrooms (SOGNB’s) will continue to increase in popularity so the rest of y’all are going to have to deal with how to use them correctly, since a disturbingly large amount of UW students don’t have a clue how to conduct themselves in this type of environment. And this isn’t even from a being-insensitive-to-trans-people perspective. I don’t think anybody at UW is really outraged about the general existence of gender ambiguous people on campus and their conduct within restrooms. This all virtually stems from people physically being unable to indicate that a SOGNB is occupied or not. People regularly fail to lock the door behind them when they occupy a SOGNB, and I regularly run into these people and in turn regularly experience completely avoidable emotional trauma as I walk in to the sound of girls peeing or someone saying “Umm, there’s someone in here…”
 
 If you choose to use a SOGNB for whatever reason, you need to lock the door behind you. I’ll repeat for effect: if you choose to use a SOGNB for whatever reason, you need to lock the door behind you. If you do not, you are not smart. The opposite of smart, in fact. Dumb, even. You are dumb if you do not lock the door behind you when you use a SOGNB.
 
