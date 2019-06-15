@@ -51,6 +51,7 @@ fields:
     time_format: 
     display_utc: false
 pages:
+- _reviews/haikus-i.md
 - _reviews/communications-2nd-floor.md
 - _reviews/gould-1st-floor.md
 - _reviews/danny-s-good-bye.md
