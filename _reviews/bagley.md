@@ -1,6 +1,6 @@
 ---
 building: Bagley
-title: Bagley
+title: Bagley 2nd Floor
 title_directory: ''
 title_long: ''
 room: 2nd Floor
