@@ -1,5 +1,5 @@
 ---
-building: PACCAR
+building: Paccar
 title: PACCAR 1st Floor
 title_directory: ''
 title_long: ''

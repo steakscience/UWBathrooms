@@ -72,36 +72,44 @@ reviews.
 
 					<!-- sorts alphabetically -->
 					{% assign sorted = site.reviews | sort: 'building' %}
-
+					{% assign prev = "" %}
 
 					{% for i in sorted %}
-					{% if i.building != "Miscellaneous" %}
 
+						{% if i.building != "Miscellaneous" %}
+
+						{% if forloop.first or i.building != prev.building %}
 					<!-- row -->
-					<div class="bt b--purple bw1 cf directoryRow">
+					<div class="bt bb b--purple bw1 cf directoryRow">
 
-						<!-- title -->
-						<div class="fl w-50 fw4">
-							{{i.building}}
-						</div>
+					  <!-- title -->
+					  <div class="fl w-50 fw4">
+					    {{i.building}}
+					  </div>
+					  <!-- floor -->
+					  <div class="fl w-50 fw4">
+					    <ul class="list pl0 mv0 tr">
+					      <li class="mb2">{{i.room}}</li>
 
-						
+					  {% else %}
 
-						<!-- floor -->
-						<div class="fl w-50 fw4">
-							<ul class="list pl0 mv0 tr">
-								<li class="mb2">{{i.room}}</li>
-							</ul>
-						</div>
+					      <li class="mb2">{{i.room}}</li>
 
-						{% assign prevItem = i.building %}
+					  {% endif %}
+					      
+					  {% if forloop.last or sorted[forloop.index].building != i.building %}
+					<!-- 	close old elements -->
+					  	</ul>
+					  </div>
 
 					</div>
+					  {% endif %}
 
+						{% assign prev = i %}
 
-					{% endif %}
+						{% endif %}
+
 					{% endfor %}
-
 	
 					<!-- row -->
 					<div class="bt bb b--purple bw1 cf directoryRow">

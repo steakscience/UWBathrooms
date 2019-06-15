@@ -24,7 +24,6 @@ collections:
    reviews:
     output: true
     # permalink: /:building/:room
-    permalink: /:building/:room
 
 defaults:
   - scope:
