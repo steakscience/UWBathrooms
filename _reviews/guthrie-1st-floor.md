@@ -1,0 +1,15 @@
+---
+building: Guthrie
+title: Guthrie 1st Floor
+title_directory: ''
+title_long: ''
+room: 1st Floor
+review_date: 2014-02-18 17:00:00 +0000
+photo_date: 
+
+---
+This was my first time ever stepping foot into Guthrie Hall, which houses the Department of Psychology. First impressions were not very impressive. It was quite dark and cramped. There was a display case filled with books you can’t pick up or read because it’s surrounded by glass walls that you can’t open. I never understood the point of those. The ceiling was quite low and the hallway was pretty narrow. I didn’t explore the building at all but it looks like it has a perimeter hallway with big classrooms in the interior area and offices around the exterior. Walls and ceiling were concrete, which I don’t necessarily mind as a material for building interiors but you need a ton of light in the building for it to not seem like you’re going on a spelunking expedition in the Indonesian archipelago. It was quite depressing to be honest. You’d think that psychologists would have studied these kinds of things in the 70’s before the rise of these ugly, boxy, concrete-steel contraptions on college campuses around the country. What were these guys doing in those times?
+
+The hallway layout was a bit confusing because you could go either left or right after entering the super-cramped lobby. It also didn’t help that there wasn’t a map nearby. I definitely looked lost while I was trying to find some means with which to orientate myself. Luckily there was a map on the left side of the lobby, as well as the hallway to the bathrooms which were just around the corner.
+
+Expectations were low considering the drab-ness of the interior but I was pleasantly surprised. Guthrie has the precious amenity known as urinal dividing walls. They also had the uncommon feature of having a shelf above the line of urinals so I could conveniently place the notebook I was carrying in my hands on it as opposed to draping it over the divider, which I might or might not have done in Paccar the other day. This gave me the illusion that I was actually peeing into a plastic-porcelain-steel box that was quite the experience. This was a pretty small space but I think that the dividers give bathroom users another advantage in that it gives the perception that your pee space is a lot larger than if there were no dividers because it reinforces your personal space with definite boundaries. When there are no dividers all bathroom users’ personal space bubbles quite resemble Venn diagrams. You can come up with your own label for the overlapping section because there are way too many innuendoes in my head to pick just one. I’m going to keep Guthrie in mind when I’m walking along that strip of Stevens. My go-to in that part of campus was the Architecture building next door but that might have to change in a minute.
