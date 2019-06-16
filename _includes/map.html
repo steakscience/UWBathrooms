@@ -1,0 +1,25 @@
+<!-- Map -->
+		<div class="w-100 db center noselect">
+
+			<div class="mv3 center ph4 cf" style="max-width: 65rem;">
+
+				<h1 class="f4-ns f5 mb2">Map</h1>
+
+				 <div id="mapid" class="ba b--purple bw1"></div>
+
+				 <script>
+
+				 	var map = L.map('mapid').setView([51.505, -0.09], 13);
+
+					var imageUrl = 'http://www.lib.utexas.edu/maps/historical/newark_nj_1922.jpg',
+					    imageBounds = [[40.712216, -74.22655], [40.773941, -74.12544]];
+
+					L.imageOverlay(imageUrl, imageBounds).addTo(map);
+
+				 	
+				 </script>
+
+
+			</div>
+			
+		</div>

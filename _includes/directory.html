@@ -1,0 +1,83 @@
+<!-- Directory -->
+		<div class="w-100 db center b--purple bw1 mb5 noselect">
+
+			<div class="mv3 center ph4 cf" style="max-width: 65rem;">
+
+				<h1 class="f4-ns f5 mb2">Directory</h1>
+
+				<div class="fl w-100 cf lh-title mt2 columns">
+					
+					<!-- sorts one with just Misc. -->
+					{% assign misc = site.reviews | where: "building", "Miscellaneous" %}
+					{% assign misc = misc | sort: 'review_date' %}
+
+					<!-- sorts alphabetically -->
+					{% assign sorted = site.reviews | sort: 'title' %}
+					{% assign prev = "" %}
+
+					{% for i in sorted %}
+
+						{% if i.building != "Miscellaneous" %}
+
+						{% if forloop.first or i.building != prev.building %}
+					<!-- row -->
+					<div class="bt bb-ns b--purple cf directoryRow">
+
+					  <!-- title -->
+					  <div class="fl w-50 fw4">
+					    {{i.building}}
+					  </div>
+					  <!-- floor -->
+					  <div class="fl w-50 fw4">
+					    <ul class="list pl0 mv0 tr">
+					      	<li class="mb2">
+					      		<a class="purple link" href="{{site.baseurl}}{{i.url}}">{{i.room}}</a>
+					  		</li>
+
+					  {% else %}
+
+					      <li class="mb2">
+					      		<a class="purple link" href="{{site.baseurl}}{{i.url}}">{{i.room}}</a>
+					  		</li>
+
+					  {% endif %}
+					      
+					  {% if forloop.last or sorted[forloop.index].building != i.building %}
+					<!-- 	close old elements -->
+					  	</ul>
+					  </div>
+
+					</div>
+					  {% endif %}
+
+						{% assign prev = i %}
+
+						{% endif %}
+
+					{% endfor %}
+	
+					<!-- row -->
+					<div class="bt bb-ns b--purple cf directoryRow">
+
+						<!-- title -->
+						<div class="fl w-50 fw4">
+							Miscellaneous
+						</div>
+						
+						<!-- floor -->
+						<div class="fl w-50 fw4">
+							<ul class="list pl0 mv0 tr">
+								{% for i in misc %}
+								<li class="mb2">
+						      		<a class="purple link" href="{{site.baseurl}}{{i.url}}">{{i.room}}</a>
+						  		</li>
+								{% endfor %}
+							</ul>
+						</div>
+
+					</div>
+				</div>
+
+			</div>
+			
+		</div>

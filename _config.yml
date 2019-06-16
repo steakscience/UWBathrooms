@@ -21,9 +21,12 @@ baseurl: "/uw_bathrooms" # the subpath of your site, e.g. /blog
 url: "https://sixfingeredamish.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 collections:
-   reviews:
+  reviews:
     output: true
     # permalink: /:building/:room
+
+  snippets:
+    output: false
 
 defaults:
   - scope:

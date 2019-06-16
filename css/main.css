@@ -47,6 +47,7 @@ body {
 
 h1, h2, h3, h4 {
 	font-weight: 500;
+  font-size: inherit;
 }
 
 .em, .italic {
@@ -90,6 +91,11 @@ img:not([src]) {
 #detail h2 {
   font-size: inherit;
   margin-bottom: -0.8em;
+}
+
+.intro h2 {
+  font-size: inherit;
+  margin-bottom: -0.6em;
 }
 
 .columns {
@@ -184,7 +190,7 @@ img:not([src]) {
   margin-top: -1px;
 }
 
-.directoryRow:nth-child(1), #detail p:nth-child(1) {
+.directoryRow:nth-child(1), #detail p:nth-child(1), .intro p:nth-child(2) {
   margin-top: 0;
 }
 
@@ -192,7 +198,11 @@ img:not([src]) {
   border-bottom-style: solid;
 }
 
-#detail hr {
+.intro p:last-child {
+  margin-top: -0.5rem;
+}
+
+hr {
   background-color: var(--purple);
   border: none;
   border-top: solid .125rem;
@@ -302,7 +312,7 @@ img:not([src]) {
     -moz-transition: opacity 1s;
     -o-transition: opacity 1s;
 
-    transition-delay: 0.8s;
+    transition-delay: 1s;
 
     width: calc(100% - 4rem);
 }
@@ -321,10 +331,41 @@ img:not([src]) {
 
 .orbit3 {
 	animation: orbit3 12s linear infinite;
-	animation-delay: 1s;
+
+	animation-delay: 0s;
 }
 
-#home .list li:last-child {
+#home .list li:last-child, #detail .list li:last-child {
   margin-bottom: 0;
 }
+
+#mapid { 
+  height: 500px; 
+}
+
+.introWrapper {
+  max-height: 30rem;
+  overflow-y: hidden;
+  position: relative;
+}
+
+.read-more {
+  position: absolute; 
+  bottom: 0; 
+  left: 0;
+
+  text-align: center;
+  margin: 0;
+  padding-top: 4.5rem;
+  padding-bottom: 0.5rem;
+
+  
+  /* "transparent" only works here because == rgba(0,0,0,0) */
+  background-image: linear-gradient(to bottom, rgba(255,255,255,0), white);
+}
+
+
+
+
+
 
