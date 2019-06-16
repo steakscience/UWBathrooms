@@ -26,7 +26,7 @@ The final touch on any bathroom is the mirror. That rare moment of literal refle
 
 Paccar Hall’s cafeteria bathroom has a spirit of coming and going. Some might argue this is the true nature of visiting the toilet. Yet, like a bladder-relieved Midas, I felt an emptiness (not of the urological variety). The Paccar bathroom truly has style, but it lacks in substance. The waste of paper, the depressing and melancholy-inducing graffiti. This is not the bathroom it appears to be. Though — like its prominent mirror — it obliges us to contemplate ourselves.
 
-PACCAR near Orin’s Place
+## PACCAR near Orin’s Place
 
 3\.25 deep thoughts out of a lifetime of wonder.
 
