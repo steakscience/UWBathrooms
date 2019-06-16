@@ -1,6 +1,6 @@
 ---
 building: Paccar
-title: PACCAR 1st Floor
+title: Paccar 1st Floor
 title_directory: ''
 title_long: ''
 room: 1st Floor
