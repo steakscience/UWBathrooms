@@ -5,7 +5,7 @@ title_directory: ''
 title_long: ''
 room: 1st Floor
 review_date: 2014-09-22T17:00:00.000+00:00
-photo_date: 
+photo_date: 2015-12-20 17:00:00 +0000
 
 ---
 What’s up everybody. Welcome back for another year of classes and whatever. This site will be picking back up by extension of me having to be on campus and, therefore, me having to find good bathrooms on campus. Since there’s going to be 40,000 more people at or around school than the last three months I figure some of y’alls will need to find suitable restroom spots also! Especially you freshmen that will all be taking 12 million person lectures for terrible classes like CHEM 142 in terrible places like Kane Hall and eating in more terrible places like the HUB and studying in the terriblest places like Odegaard at equally terrible hours of the day (or night). The point here is that there are a lot of terrible aspects to college (not just UW but pretty much all of them in general) that you’re not going to be able to avoid in any sort of way, but you should optimize all the variables you can control to make the rest of the terrible things a little bit less terrible. One of these important variables, in my mind, is where you go to the bathroom. If you really need to know all the reasons why, [read the intro post](https://uwbathrooms.wordpress.com/2012/04/26/sup-uw/ "Sup UW"), but I think it’s pretty self-explanatory.
