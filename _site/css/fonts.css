@@ -14,3 +14,12 @@
     font-style: normal;
 }
 
+@font-face {
+    font-family: 'Aktiv Grotesk';
+    src: url('webfonts/AktivGrotesk-Italic.woff2') format('woff2'),
+        url('webfonts/AktivGrotesk-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
+
