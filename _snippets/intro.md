@@ -2,7 +2,7 @@
 title: Intro
 ---
 
-UW Bathrooms was a blog started by Aaron, Danny, and Zianna. Together, they went around campus trying different bathrooms, and wrote about their experiences.
+UW Bathrooms was a blog started by Aaron, Danny, and Zianna. Together, they went around campus trying different bathrooms and wrote about their experiences.
 
 The blog ran from 2012 to 2016 and captured the zeitgeist of UW during those years. In this archive, you’ll find period markers like the authors’ reactions to the newly renovated HUB and their thoughts on UW’s new gender neutral bathrooms. You’ll also find that certain things are timeless — from CHEM 142 and the struggle of completing ALEKS on Friday nights, to the jokes about frat boys and Paccar Hall.
 

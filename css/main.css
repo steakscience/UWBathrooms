@@ -214,7 +214,7 @@ img:not([src]) {
 hr {
   background-color: var(--purple);
   border: none;
-  border-top: solid .125rem;
+  border-top: solid .06rem;
 }
 
 /* not small */
@@ -235,6 +235,10 @@ hr {
     border-width: .125rem;
     margin-top: -.125rem;
 
+  }
+
+  hr {
+    border-top: solid .125rem;
   }
 
 	@-webkit-keyframes orbit {
