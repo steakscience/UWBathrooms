@@ -93,6 +93,15 @@ img:not([src]) {
   margin-bottom: -0.8em;
 }
 
+#detail img {
+  /*make equal to btm*/
+  margin-top: 0.5rem;
+}
+
+#detail hr {
+  break-inside: avoid;
+}
+
 .intro h2 {
   font-size: inherit;
   margin-bottom: -0.6em;
