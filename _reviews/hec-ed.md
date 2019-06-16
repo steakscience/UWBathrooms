@@ -1,5 +1,5 @@
 ---
-building: Hec Ed
+building: Hec Edmundson Pavilion
 title: Hec Ed
 title_directory: ''
 title_long: ''

@@ -8,7 +8,7 @@ review_date: 2012-05-08 17:00:00 +0000
 photo_date: 
 
 ---
-Salutations to all UWBathrooms readers!
+Salutations to all UW Bathrooms readers!
 
 As some recent posts alluded, the University of Washington is presently involved in that unique bastion of Panhellenic service and inter-fraternal harmony: Greek Week. With that in mind, I hope all you frat-tanked readers “pre-funked” for this review: it’s the Paccar Hall bathroom _drinking game_.
 

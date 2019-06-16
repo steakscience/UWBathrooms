@@ -12,7 +12,7 @@
 		<div class="pt3 mb3 center cf bb b--purple bw1 pb3">
 
 			<div class="mt3 ph4 center" style="max-width: 65rem;">
-				<div class="w-50-ns w-75 fl">
+				<div class="w-50 fl">
 
 					<h1 class="f4-ns f5 mt0 mb2 lh-title">
 						{{page.building}}<br>
@@ -21,17 +21,19 @@
 					
 				</div>
 
-				<div class="w-50-ns w-25 fl">
+				<div class="w-50 fl pl3-ns pl0 noselect">
 
 					<p class="f5 mt0 mb2 lh-title w-50-ns w-100 fl">
 						Published:<br>
-						April 26, 2012
+						{{page.review_date | date: "%B %d, %Y"}}
 					</p>
 
+					{% if page.photo_date %}
 					<p class="f5 mt0 mb2 lh-title w-50-ns w-100 fl">
-						Published:<br>
-						April 26, 2012
+						Photos:<br>
+						{{page.photo_date | date: "%B %d, %Y"}}
 					</p>
+					{% endif %}
 					
 				</div>
 			</div>
@@ -39,7 +41,7 @@
 		</div>
 
 		<!-- content -->
-		<div class="mv3 center cf bb b--purple pb3">
+		<div class="mv3 center cf bb b--purple bw1 pb4">
 
 			<div class="mt3 ph4 center" style="max-width: 65rem;">
 				
@@ -50,9 +52,10 @@
 
 				</div> -->
 
+				<!-- <div class="fl w-100 columns" style="text-align: justify;"> -->
 				<div class="fl w-100 columns">
 
-					{{content | markdownify | widont | hyphenate | replace: '&amp;amp;', '&amp;' }}
+					{{content | markdownify | widont | hyphenate | replace: '&amp;amp;', '&amp;' | replace: '-­', '-' }}
 
 				</div>
 

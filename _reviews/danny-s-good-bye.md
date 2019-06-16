@@ -8,15 +8,15 @@ review_date: 2013-03-04 17:00:00 +0000
 photo_date: 
 
 ---
-uwbathrooms readers,
+UW Bathrooms readers,
 
-So much has transpired since [my last contribution](https://uwbathrooms.wordpress.com/2012/05/09/greek-week-special-paccar-where-the-heels-meet-the-yoga-pants/ "Greek Week Special PACCAR – “Where the Heels Meet the Yoga Pants”") to our blog. The passing of time has had great impact not just on myself and you, but has also created a stir within uwbathroom’s tiny corner of the internet. Before I proceed onto the review proper, a reflection on these changes is – at the very least – a necessity. Perhaps we can make it more:
+So much has transpired since [my last contribution](https://uwbathrooms.wordpress.com/2012/05/09/greek-week-special-paccar-where-the-heels-meet-the-yoga-pants/ "Greek Week Special PACCAR – “Where the Heels Meet the Yoga Pants”") to our blog. The passing of time has had great impact not just on myself and you, but has also created a stir within UW Bathrooms’s tiny corner of the internet. Before I proceed onto the review proper, a reflection on these changes is – at the very least – a necessity. Perhaps we can make it more:
 
 As a matter of reintroduction, I attended the University of Washington at the beginning of my undergraduate career. Many weird things came to pass during my two years in Seattle. I met a handful of new friends, but I mostly bore close witness to the college-aged lives of some best friends from my hometown. That experience was not unlike watching the Toy Story trilogy play out before me – people and relationships shifting uncomfortably, the swilling of firewater, the shaving of heads, the power and the glory. All entirely fueled by compulsory King County Metro passes and unwashed silverware.
 
 ![](https://uwbathrooms.files.wordpress.com/2013/03/cats_ab_dg.jpeg)
 
-But I digress. One such new someone was Aaron, and one such strange something was the creation of this blog. The product of much running at Seattle’s favorite virtual street-ball destination ([Greenlake](https://www.youtube.com/watch?v=aMnkkn1kAgg)), the vision for uwbathrooms has ranged from literally sophomoric humor to smartphone app development. Pipe dreams and ambitions aside, the blog experienced some unexpected glory days during May of 2012, when it became the top entry of the /udub sub-reddit, as well as having approximately 2,500 views that month. With blatant hubris, I ask readers to note again the date of my [last uwbathrooms post](https://uwbathrooms.wordpress.com/2012/05/09/greek-week-special-paccar-where-the-heels-meet-the-yoga-pants/ "Greek Week Special PACCAR – “Where the Heels Meet the Yoga Pants”").
+But I digress. One such new someone was Aaron, and one such strange something was the creation of this blog. The product of much running at Seattle’s favorite virtual street-ball destination ([Greenlake](https://www.youtube.com/watch?v=aMnkkn1kAgg)), the vision for UW Bathrooms has ranged from literally sophomoric humor to smartphone app development. Pipe dreams and ambitions aside, the blog experienced some unexpected glory days during May of 2012, when it became the top entry of the /udub sub-reddit, as well as having approximately 2,500 views that month. With blatant hubris, I ask readers to note again the date of my [last UW Bathrooms post](https://uwbathrooms.wordpress.com/2012/05/09/greek-week-special-paccar-where-the-heels-meet-the-yoga-pants/ "Greek Week Special PACCAR – “Where the Heels Meet the Yoga Pants”").
 
 It turns out that having a critically lauded and wildly popular wordpress site about toilets does not provide the sort of fulfillment I anticipated when I matriculated at UW. For reasons either too numerous or too personal to list on a near-defunct blog (if a grievance goes unread on the internet, does it make a sound?), I sought transfer to a new college.
 
@@ -24,13 +24,13 @@ Along the way, I spent a summer as a “Fulbrighter” in the United Kingdom. Th
 
 ![](https://uwbathrooms.files.wordpress.com/2013/03/img_1493.jpg)
 
-There were attempts to blog during this time abroad, but the prospect of anything more serious than uwbathrooms daunted me. In an effort to return this post to its thematic intentions, the toilets of Wales were subtly different than their Yank derivatives, and may merit a retrospective if uwbathrooms becomes resuscitated one day.
+There were attempts to blog during this time abroad, but the prospect of anything more serious than UW Bathrooms daunted me. In an effort to return this post to its thematic intentions, the toilets of Wales were subtly different than their Yank derivatives, and may merit a retrospective if UW Bathrooms becomes resuscitated one day.
 
 _At frickin’ last_, we arrive at my review. Having chosen Loyola Marymount University in Los Angeles as my new home, I had a grand old time first semester, overloading on Vitamin D and mocking less-than-hearty Californians whenever they utilized socks, long sleeves, or any other creature comfort made redundant by something called the Sun.
 
 Aaron sent me a text asking how I was making out during one[ particularly harsh cold front](http://www.laimyours.com/wp-content/uploads/Jimmy-Kimmel-Makes-Excellent-Commentary-On-Los-Angeles-Reaction-To-Cold-Weather.png "The Beach"). With deference to his archetypal Seattle sarcasm, I replied that the frost _had_ snapped my perfect class attendance wearing shorts.
 
-Seeing that I had still had my wits about me, AB suggested a guest submission to breath some life into uwbathrooms. With the perfect review already in mind, I agreed.
+Seeing that I had still had my wits about me, AB suggested a guest submission to breath some life into UW Bathrooms. With the perfect review already in mind, I agreed.
 
 There are no bathrooms on the third floor of St. Robert’s Hall. Thus, during every break in Kantian Ethics, it was imperative that your correspondent shuffle down to St. Rob’s second story to refill his Nalgene and empty his bladder. Some potential bathroom goers may be deterred by the requisite stair climb/descent to the second floor, but rest assured that what awaits in the bathroom is well worth it. The payoff has been described to your correspondent as “The Creeper Bathroom.”
 

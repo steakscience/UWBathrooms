@@ -59,14 +59,21 @@ img:not([src]) {
                                   supported by Chrome and Opera */
 }
 
-.ordinal {
-  /*font-variant-numeric: ordinal;
-  -moz-font-feature-settings: "ordn";
-  -webkit-font-feature-settings: "ordn";
-  font-feature-settings: "ordn";*/
+#detail a {
+  color: var(--purple);
+}
 
-  /*vertical-align: super;
-  font-size: smaller;*/
+#detail a:visited {
+  color: inherit;
+}
+
+#detail p .tc {
+  display: block;
+}
+
+#detail h2 {
+  font-size: inherit;
+  margin-bottom: -0.8em;
 }
 
 .columns {
@@ -157,7 +164,8 @@ img:not([src]) {
   break-inside: avoid;
 
   /*offsets bw1*/
-  margin-top: -.125rem;
+  border-width: 0.1rem;
+  margin-top: -0.1rem;
 }
 
 .directoryRow:nth-child(1), #detail p:nth-child(1) {
@@ -183,6 +191,11 @@ img:not([src]) {
     padding-top: 0.8rem; 
     padding-bottom: 0.8rem; 
     break-inside: avoid;
+
+    /*bw1*/
+    border-width: .125rem;
+    margin-top: -.125rem;
+
   }
 
 	@-webkit-keyframes orbit {

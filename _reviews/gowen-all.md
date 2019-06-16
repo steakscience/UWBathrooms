@@ -20,14 +20,14 @@ When I went back today to scout out the men’s rooms I realized how big of an i
 
 After much wandering about and very awkward nonverbal interactions with other restroom patrons, I have found all the men’s bathrooms in Gowen:
 
-FIRST FLOOR
+## First Floor
 
 Tucked away in the Political Science department in the hallway on the right, this is the most luxurious of the three, featuring natural sunlight and ample urinals and stalls. It was relatively clean too. Potential issues include no urinal dividers. The vast majority of Gowen Hall’s use is as the East Asia library and as interdepartmental offices, which means a lot of professors, which means that chances are you’ll run into one while using the can. The particular one I ran into on the first floor was jovially brushing his teeth. Here’s to hoping that you don’t run into a professor you previously had.
 
-SECOND FLOOR
+## Second Floor
 
 This bathroom was so small and cramped that the Shawshank solitary confinement cells that Andy Dufresne was kept in probably used it as inspiration when they were designing the set for it. But that doesn’t mean it’s all bad. Bathrooms like these are good for number 2 and for those individuals that enjoy their privacy. It’s hard to gauge when someone else is in there though, so that’s a risk you’re going to have to be willing to take. This is tucked into a corner of a hallway on the south face of the building.
 
-SECOND FLOOR MEZZANINE
+## Second Floor Mezzanine
 
 This one is right at the top of the stairs across the lobby from room 201, on the left side. This is a one-unit stall billed as “gender neutral”, of which us here at UW bathrooms haven’t yet reached a definitive consensus regarding its efficacy. Gender issues aside, this is a great spot for the recluses and those seeking privacy. The lock on the door with the vacant-occupied bolt reduces any sort of confusion in regards to its occupation, which further reinforces its privacy features. The interior is a sad excuse for a bathroom but can be your next bathroom fortress. This one is for the kids that back in high school ate lunch in the bathroom stalls. This is your new sanctuary.
