@@ -42,7 +42,7 @@ hyphenate_filter:
 # Build settings
 markdown: kramdown
 permalink: /:title/
-include: [_pages, _posts]
+include: [_pages, _posts, uploads]
 plugins:
   # - jekyll-feed
   - jekyll-typogrify
