@@ -357,7 +357,7 @@ hr {
   text-align: center;
   margin: 0;
   padding-top: 4.5rem;
-  padding-bottom: 0.5rem;
+  padding-bottom: 0.3rem;
 
   
   /* "transparent" only works here because == rgba(0,0,0,0) */
