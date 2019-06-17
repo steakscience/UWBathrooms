@@ -51,6 +51,7 @@ fields:
     time_format: 
     display_utc: false
 pages:
+- _reviews/fishery-sciences.md
 - _reviews/chemistry-1st-floor.md
 - _reviews/gender-neutral-bathrooms.md
 - _reviews/smith-1st-floor.md
@@ -86,5 +87,4 @@ pages:
 - _reviews/bagley.md
 - _reviews/gates.md
 - _reviews/kane.md
-- _reviews/fishery-sciences.md
 - _reviews/winkenwerder.md
