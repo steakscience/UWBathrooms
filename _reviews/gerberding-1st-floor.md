@@ -4,11 +4,11 @@ title: Gerberding 1st Floor
 title_directory: ''
 title_long: ''
 room: 1st Floor
-review_date: 2012-11-14 17:00:00 +0000
-photo_date: 2015-12-23 17:00:00 +0000
+review_date: 2012-11-14T17:00:00.000+00:00
+photo_date: 2015-12-23T17:00:00.000+00:00
 
 ---
-Fact: 99% of undergrads have never seen the hallowed hallways of Gerberding, which houses the administrative offices of the University. This is the White House of all buildings on campus. It’s the Lamborghini in the E1 parking lot amidst the sea of Toyota Priuses and Nissan Leaf type shit. Gerberding balls so hard that students and faculty are not allowed above the first floor, as the signs by the staircase (there are no elevators) will notify you that only employees are allowed to use them.
+Fact: 99% of undergrads have never seen the hallowed hallways of Gerberding, which houses the administrative offices of the University. This is the White House of all buildings on campus. It’s the Lamborghini in the E1 parking lot amidst the sea of Toyota Priuses and Nissan Leaf-type shit. Gerberding balls so hard that students and faculty are not allowed above the first floor, as the signs by the staircase (there are no elevators) will notify you that only employees are allowed to use them.
 
 I’m assuming that if you’re the 1% of UW students that have ever had to do something in Gerberding, it’s because of one of these things: your dad is in some Illuminati/Free Mason/Skull and Bones secret society and you’re talking to the Board of Regents about embezzling public research funds for purchasing a private yacht or how the University is secretly funding the Taliban because the provost’s uncle runs a weapons distributing company, OR you got in a shitload of trouble, like breaking into the supply room and labs at Bio-E to synthesize PCP to sell to professors as compensation for you 4.0’ing all your classes or downloading child pornography on the school’s network. I now give you a third reason to hang out here that, thank God, is not for as drastic of reasons as the ones previously mentioned.
 
