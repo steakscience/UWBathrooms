@@ -31,7 +31,6 @@ Too many textures are playing out simultaneously for this to be a relaxing exper
 When the old man moved out of the way to dry his hands, I finally got a look at wall with the sink mounted to it, I saw one of the strangest things I have seen in a bathroom in recent memory.
 
 <img src="/uploads/par_2_big.jpg" data-lity />
-
 <img src="/uploads/par_2_clipart.jpg" data-lity />
 
 Could it be? A framed picture of clip art of toilets? In a bathroom? What is going on? I looked around in disbelief only to see the door of the marble stall made out of wood. This was just too much. Who on Earth comes up with this sort of decorating scheme? This was either the work of a directionless interior designer or a surrealist genius. This bathroom is brilliant. I will only say the major drawback for this one is the long flight of stairs you need to climb (it is at the top of the left staircase as you enter PAR). This should definitely not be a go-to hotspot by any means but with how badly everything clashes and the really great toilet picture on the wall it’s too funny to not enjoy every now and then walking along Memorial Drive.
