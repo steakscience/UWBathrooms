@@ -26,6 +26,7 @@
 </head>
 
 
+	<link href="/uw_bathrooms/css/lity.css" rel="stylesheet">
 
 <body id="detail" class="f4-ns f5 purple lh-copy">
 
@@ -61,15 +62,7 @@
 		<div class="mv3 center cf pb4-ns pb3">
 
 			<div class="mt3 ph4 center" style="max-width: 65rem;">
-				
-				<!-- <div class="fl w-50-ns w-100 pr4-ns pr0">
 
-					<img class="w-100 mb3" src="/uw_bathrooms/images/test/1.jpg" />
-					<img class="w-100" src="/uw_bathrooms/images/test/2.jpg" />
-
-				</div> -->
-
-				<!-- <div class="fl w-100 columns" style="text-align: justify;"> -->
 				<div class="fl w-100 columns">
 
 					<p>I’ve been hang­ing out in Gould Hall a lot recent­ly. This is partially because this is a sweet build­ing that offers the three basic types of places where people like to study. These include crowded areas that have back­ground noisy-e­nough-to-of­fer­-white-noise-but-not-noisy-e­nough-to-be-dis­tract­ing noise; libraries that are gener­ally really quiet and have desks and comfy places to sit to crank out some read­ing or other work; and a computer lab where you can get tech­no­log­i­cal stuff done in a not obnox­ious envi­ron­ment quite unlike Odegaard. People actu­ally get work done down there as opposed to play­ing League of Legends or Star­craft. In addi­tion to these pro-s­tudy­ing accom­mo­da­tions there’s a coffee shop in there too. This is about as perfect as it gets for study­ing, but alas, the coffee shop only takes cash.</p>
@@ -1194,5 +1187,28 @@
 			
 		</div>
 
-</body>
+	</body>
+
+	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+    integrity="sha256-3edrmyuQ0w65f8gfBsqowzjJe2iM6n0nKciPUp8y+7E="
+    crossorigin="anonymous">
+  	</script>
+
+  	<script src="/uw_bathrooms/css/lity.js"></script>
+
+	<script type="text/javascript"> 
+
+	$(document).ready(function(){
+
+		// Bind as an event handler
+		$(document).on('click', '[data-lightbox]', lity);
+	    
+	});
+
+	</script>
+
+
+
+
+
 </html>

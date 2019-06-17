@@ -5,7 +5,7 @@ title_directory: ''
 title_long: ''
 room: Danny’s Good-bye
 review_date: 2013-03-04 17:00:00 +0000
-photo_date: 
+photo_date: 2013-03-04 17:00:00 +0000
 
 ---
 UW Bathrooms readers,

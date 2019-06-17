@@ -1,4 +1,0 @@
----
-layout: detail
-permalink: /test/
----

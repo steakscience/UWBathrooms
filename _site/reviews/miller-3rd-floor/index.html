@@ -26,6 +26,7 @@
 </head>
 
 
+	<link href="/uw_bathrooms/css/lity.css" rel="stylesheet">
 
 <body id="detail" class="f4-ns f5 purple lh-copy">
 
@@ -61,15 +62,7 @@
 		<div class="mv3 center cf pb4-ns pb3">
 
 			<div class="mt3 ph4 center" style="max-width: 65rem;">
-				
-				<!-- <div class="fl w-50-ns w-100 pr4-ns pr0">
 
-					<img class="w-100 mb3" src="/uw_bathrooms/images/test/1.jpg" />
-					<img class="w-100" src="/uw_bathrooms/images/test/2.jpg" />
-
-				</div> -->
-
-				<!-- <div class="fl w-100 columns" style="text-align: justify;"> -->
 				<div class="fl w-100 columns">
 
 					<p>Recently my house has run out of toilet paper. I live in a large house, and it is surpris­ing how much toilet paper we go through on a daily basis. I will attribute the causes of this prob­lem to the sheer number of people with whom I live, and to incred­i­bly inef­fi­cient toilet paper use by unknown room­mates. I’m not going to air out my living situ­a­tion’s dirty laun­dry because that would be unfair, but I will safely say that there is vast room for improve­ment in our toilet paper efficiency department.</p>
@@ -1200,5 +1193,28 @@
 			
 		</div>
 
-</body>
+	</body>
+
+	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+    integrity="sha256-3edrmyuQ0w65f8gfBsqowzjJe2iM6n0nKciPUp8y+7E="
+    crossorigin="anonymous">
+  	</script>
+
+  	<script src="/uw_bathrooms/css/lity.js"></script>
+
+	<script type="text/javascript"> 
+
+	$(document).ready(function(){
+
+		// Bind as an event handler
+		$(document).on('click', '[data-lightbox]', lity);
+	    
+	});
+
+	</script>
+
+
+
+
+
 </html>

@@ -26,6 +26,7 @@
 </head>
 
 
+	<link href="/uw_bathrooms/css/lity.css" rel="stylesheet">
 
 <body id="detail" class="f4-ns f5 purple lh-copy">
 
@@ -61,15 +62,7 @@
 		<div class="mv3 center cf pb4-ns pb3">
 
 			<div class="mt3 ph4 center" style="max-width: 65rem;">
-				
-				<!-- <div class="fl w-50-ns w-100 pr4-ns pr0">
 
-					<img class="w-100 mb3" src="/uw_bathrooms/images/test/1.jpg" />
-					<img class="w-100" src="/uw_bathrooms/images/test/2.jpg" />
-
-				</div> -->
-
-				<!-- <div class="fl w-100 columns" style="text-align: justify;"> -->
 				<div class="fl w-100 columns">
 
 					<p>This was my first time ever step­ping foot into Guthrie Hall, which houses the Depart­ment of Psychol­o­gy. First impres­sions were not very impres­sive. It was quite dark and cramped. There was a display case filled with books you can’t pick up or read because it’s surrounded by glass walls that you can’t open. I never under­stood the point of those. The ceil­ing was quite low and the hall­way was pretty narrow. I didn’t explore the build­ing at all but it looks like it has a perime­ter hall­way with big class­rooms in the inte­rior area and offices around the exte­ri­or. Walls and ceil­ing were concrete, which I don’t neces­sar­ily mind as a mate­r­ial for build­ing inte­riors but you need a ton of light in the build­ing for it to not seem like you’re going on a spelunk­ing expe­di­tion in the Indone­sian archipelago. It was quite depress­ing to be honest. You’d think that psychol­o­gists would have stud­ied these kinds of things in the 70’s before the rise of these ugly, boxy, concrete-s­teel contrap­tions on college campuses around the coun­try. What were these guys doing in those times?</p>
@@ -1190,5 +1183,28 @@
 			
 		</div>
 
-</body>
+	</body>
+
+	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+    integrity="sha256-3edrmyuQ0w65f8gfBsqowzjJe2iM6n0nKciPUp8y+7E="
+    crossorigin="anonymous">
+  	</script>
+
+  	<script src="/uw_bathrooms/css/lity.js"></script>
+
+	<script type="text/javascript"> 
+
+	$(document).ready(function(){
+
+		// Bind as an event handler
+		$(document).on('click', '[data-lightbox]', lity);
+	    
+	});
+
+	</script>
+
+
+
+
+
 </html>

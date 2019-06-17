@@ -96,6 +96,12 @@ img:not([src]) {
 #detail img {
   /*make equal to btm*/
   margin-top: 0.5rem;
+
+  cursor: pointer;
+}
+
+.lity-content img {
+  margin-top: 0 !important;
 }
 
 #detail hr {

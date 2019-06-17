@@ -26,6 +26,7 @@
 </head>
 
 
+	<link href="/uw_bathrooms/css/lity.css" rel="stylesheet">
 
 <body id="detail" class="f4-ns f5 purple lh-copy">
 
@@ -61,15 +62,7 @@
 		<div class="mv3 center cf pb4-ns pb3">
 
 			<div class="mt3 ph4 center" style="max-width: 65rem;">
-				
-				<!-- <div class="fl w-50-ns w-100 pr4-ns pr0">
 
-					<img class="w-100 mb3" src="/uw_bathrooms/images/test/1.jpg" />
-					<img class="w-100" src="/uw_bathrooms/images/test/2.jpg" />
-
-				</div> -->
-
-				<!-- <div class="fl w-100 columns" style="text-align: justify;"> -->
 				<div class="fl w-100 columns">
 
 					<p>Vernon Louis Parring­ton Hall is one of the oldest build­ings on campus and houses the grad­u­ate school with arguably the vaguest acad­emic disci­pline in the univer­si­ty, Daniel J. Evans School of Public Affairs. While I with­hold my bad jokes about the School of Public Affairs, I will tell you that Mr. Parring­ton was the Univer­sity of Okla­homa’s first foot­ball coach and that Mr. Evans is a former Sena­tor and gover­nor (R-WA) in the 60’s. It can be assumed that the latter very much involved in several public affairs and is a fitting name­sake to the schools.</p>
@@ -1196,5 +1189,28 @@
 			
 		</div>
 
-</body>
+	</body>
+
+	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+    integrity="sha256-3edrmyuQ0w65f8gfBsqowzjJe2iM6n0nKciPUp8y+7E="
+    crossorigin="anonymous">
+  	</script>
+
+  	<script src="/uw_bathrooms/css/lity.js"></script>
+
+	<script type="text/javascript"> 
+
+	$(document).ready(function(){
+
+		// Bind as an event handler
+		$(document).on('click', '[data-lightbox]', lity);
+	    
+	});
+
+	</script>
+
+
+
+
+
 </html>
