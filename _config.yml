@@ -15,10 +15,10 @@
 # in the templates via {{ site.myvariable }}.
 title: UW Bathrooms
 
-description: >- # this means to ignore newlines until "baseurl:"
+description: An archive in dedication to the UW Bathrooms blog.
   
-baseurl: "/uw_bathrooms" # the subpath of your site, e.g. /blog
-url: "https://sixfingeredamish.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://uwbathrooms.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 collections:
   reviews:

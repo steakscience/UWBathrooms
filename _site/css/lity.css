@@ -24,7 +24,7 @@
   transition: background .2s ease;
 
   outline: none !important;
-  opacity: 0;
+  opacity: 1;
   -webkit-transition: opacity .2s ease;
   -o-transition: opacity .2s ease;
   transition: opacity .2s ease;
@@ -35,7 +35,7 @@
 }
 
 .lity.lity-closed {
-  opacity: 0;
+  opacity: 1;
 }
 
 .lity * {

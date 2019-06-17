@@ -12,16 +12,16 @@ Apologies for a lack of any reviews last week. I accidentally forgot to drink an
 
 To start things off, though, I revisited Kane Hall (not by choice, I have class there 4 times a week) and took the elevator down to the basement. You can take the stairs too, but they are only accessible from the outside on the east (quad-side) of the building, which you can get to from the inside from a door that lets you out right next to the stairs. Walk/elevate down and the bathroom is by the corner of the long hallway you’re in. There are signs, don’t worry.
 
-<img src="/uw_bathrooms/uploads/kane_b_entry.jpg" data-lity />
+<img src="/uploads/kane_b_entry.jpg" data-lity />
 
 The bathroom has a lot of different rooms to it. Apt metaphors for this would be the plot of Enter the Dragon and the album Enter the Wu-Tang (36 Chambers). First there’s the entryway. Nothing going on here. Hit a right and you get to the individual stalls. There were about five of them, and only one of them was used. I only peed in these guys because I initially couldn’t find the urinals. I found those later but not after discovering something quite disturbing first…
 
-<img src="/uw_bathrooms/uploads/kane_b_big.jpg" data-lity />
+<img src="/uploads/kane_b_big.jpg" data-lity />
 
 There’s fucking asbestos in here. Asbestos as in the shit that gives people fucking lung cancer. In Kane Hall. There’s signs indicating that the bathroom is filled with this shit. Why would I want to know that I’m getting my alveolus sacs clogged with some bullshit indestructible fibers (spelled fibres if you are English)? Why would you want to make people consciously aware that they’re being exposed to something that’s been BANNED from construction? They might as well have painted the ceilings with lead-based paint. UW fucked up big time.
 
-<img src="/uw_bathrooms/uploads/kane_b_urinal.jpg" data-lity />
-<img src="/uw_bathrooms/uploads/kane_b_sink.jpg" data-lity />
+<img src="/uploads/kane_b_urinal.jpg" data-lity />
+<img src="/uploads/kane_b_sink.jpg" data-lity />
 
 Once I got over the deeply troubling reality that I was exposed to some freaking asbestos for Chrissakes, I stumbled upon the urinals as I tried to locate the sinks, both of which are adjacent to one another. I took a peek to see what was up in the urinal chamber and saw only more signs warning me of asbestos. I washed my hands and headed out shortly thereafter.
 

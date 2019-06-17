@@ -16,11 +16,11 @@ The building itself is a cross between a construction site and an Embassy Suites
 
 Possibly because the designers knew it would be somewhat of a pain to get to the floor above or below you, they accommodated each floor with a restroom. The catch is that they are put in opposite corners of each floor, and on top of that, there is no relation between the corner that they are in and floor they are on. Depending on the entrance you use, it’s going to be a coin-flip as to what bathroom you’re going to use if you’re in a hurry. For convenience purposes I sought refuge in the men’s room on the first floor, which is located by the pain-in-the-ass coffee bar that WARNING: ONLY TAKES CASH.
 
-<img src="/uw_bathrooms/uploads/gould_1_entry.jpg" data-lity />
+<img src="/uploads/gould_1_entry.jpg" data-lity />
 
 The entire bathroom is red, which reminded me of _Carrie_ when I first walked in. I felt slightly uncomfortable knowing that there was a possibility that it might have been a women’s restroom at one point, due to perpetuated and reinforced gender stereotypes regarding color associations and interior design techniques with gender type. 2 seconds into using this restroom and it’s not looking good. This bathroom’s got me feeling guilty about having to think that I assumed it was a women’s restroom. What a male chauvinist pig I am.
 
-<img src="/uw_bathrooms/uploads/gould_1_big.jpg" data-lity />
+<img src="/uploads/gould_1_big.jpg" data-lity />
 
 Things drastically improved when i delved into the depths of the restroom. Gould M1, and as far as I know, all the men’s rooms in Gould, has a cool layout where the urinals and stalls are on opposite sides of a wall that look towards each other. A “hallway” with sinks connects the two corridors. Urinals are on the right side of the wall and stalls are on the left. While the stalls are not entirely isolated, it does reduce the amount of traffic that they are exposed to because they are kept away from the urinals, which means that all you private poopers potentially have a new quiet spot. The urinals are small and minimalist in design which are nice since I don’t like a big, impending hunk of porcelain to pee in. Urinating is a delicate procedure for men. Urinal stalls are an added bonus. The sink area was pretty clean. Natural light supplemented the airiness of the ambiance which made washing my hands a pleasantly relaxing experience. By the way, if you don’t wash your hands after you pee, you’re gross as hell. Marie Curie, Louis Pasteur and Florence Nightingale all turn in their graves when some ignorant simpleton doesn’t wash their nasty ass hands after they touch their genitals and clean their buttholes.
 

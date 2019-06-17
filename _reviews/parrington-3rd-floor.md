@@ -14,7 +14,7 @@ Parrington is home to the Evans School of Public Affairs, which, after all my ti
 
 The second floor bathroom has been reviewed already so I won’t extrapolate on that. If you’re in a hurry you can just skip up one flight of stairs and call it a day. If you can muster up the patience and determination to hike up that next flight, your sacrifices could be paid off and then some. Shy and awkward readers alike will be happy to know that Parrington 3 is a one-man room with the vacant-occupied deadbolt on the front. No unnecessary interactions. Just streamlined efficiency and privacy.
 
-<img src="/uw_bathrooms/uploads/par_3.jpg" data-lity />
+<img src="/uploads/par_3.jpg" data-lity />
 
 In a perfect world, all bathrooms would be like this, but that’s simply ineffective building design and can’t accommodate nearly as many people. Besides, if a bathroom like that gets used heavily on a daily basis, it’s going to be gross before your 10:30 class. So it’s good that these sorts of one-man bathroom asylums are few and far in between. They should be diamonds in the rough. You should be able to pretend that they’re closets you walk through to get to Narnia or [Neverland](http://www.michaeljackson.ch/neverlandjoie.jpg) and they’re your own little secret hideaway sanctuary. When you dilute things like that for the masses, everyone gets to experience their own magical happy place but now the experience is watered down and smellier. In a sense it’s paradoxical that this blog exists because I’m letting all y’alls know about the best spots only to let more people in the know about them and making these spots less exclusive and cool and private. But this isn’t a philosophical type of site so I try to ignore all those contradictions. I just do me.
 

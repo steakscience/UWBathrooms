@@ -22,10 +22,10 @@ where _nb_ is the number of people that access the bathrooms in any given buildi
 
 I had a particularly bad case of CIPPT this morning because I had consumed about a gallon of coffee as a result of feigning the effects of being awake for the 37 hours prior to falling sleeping last night. The Fisheries 1st floor unit wasn’t really cutting it for me after two weeks of continuous disappointment, so I went next door to FTR to see what was up. 
 
-<img src="/uw_bathrooms/uploads/ftrc_sink.jpg" data-lity />
+<img src="/uploads/ftrc_sink.jpg" data-lity />
 
 The result was a virtually empty building (half the lights weren’t even on) and a near-spotless, empty bathroom at the end of the hallway. The only sign that someone used it before me was water residue on the sink counter. All in all, it was a great CIPPT. My only qualms were the lack of natural light and the fact that I had never bothered to try this building out earlier, like in sophomore year when I had a class there practically every quarter.
 
-<img src="/uw_bathrooms/uploads/ftrc_toilet.jpg" data-lity />
+<img src="/uploads/ftrc_toilet.jpg" data-lity />
 
 Also, if Fisheries Teaching and Research was renamed to Fisheries Research and Teaching, the new building abbreviation code would be FRT, which would have certainly led to it being pronounced “fart,” resulting in much mockery at the building’s expense. This means that there absolutely had to have been a moment in time where a very, very important person on the UW Board of Directors or some equivalent had to share this specific reason as to why not to call this particular building the Fisheries Research and Teaching Building. Could you have imagined the sight of a wealthy, powerful sexagenerian explaining to his/her colleagues that you can’t make the initials FRT because then everyone would call it the fart building? This totally had to have happened.

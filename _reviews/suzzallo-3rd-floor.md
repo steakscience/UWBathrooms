@@ -12,15 +12,15 @@ To help my fellow students prepare for Dead Week and Finals Week, I will not joi
 
 The third floor bathroom in Suzzallo (remember, Suzzallo and Allen occupy the same building but are technically two separate entities \[Allen was added on in 1990 after Suzzallo was built throughout the 20’s and 30’s\]) is right across from the Reading Room. High schoolers and awestruck freshmen also know it as the Harry Potter Room, because J.K. Rowling was the first person to think about putting elaborate light fixtures, tables and bookshelves in giant, high-ceilinged, stone rooms that could belong to a castle. There’s at least a hundred people in there at any given moment and it’s a highlight on the campus tour so it’s always pretty crowded. The open area right outside of it also has study spots and there’s a wing of study rooms and offices to the side of that. Desks are interspersed in between bookshelves containing approximately one billion volumes.
 
-<img src="/uw_bathrooms/uploads/suz_3_big.jpg" data-lity />
+<img src="/uploads/suz_3_big.jpg" data-lity />
 
 Which is a surprise to say that this bathroom is really underwhelming. To begin with it’s pretty small. But just looking at it makes you realize all the wasted potential of it. With only one handicap toilet stall and two urinals, it cannot sustain a high level of traffic. The urinals are set at an angle to the toilet and sinks so it’s a very awkward space, augmented by the uncomfortably close proximity of the stalls to one another. To top it off, one of them is a kid stall. Remember to aim low.
 
-<img src="/uw_bathrooms/uploads/suz_3_big2.jpg" data-lity />
+<img src="/uploads/suz_3_big2.jpg" data-lity />
 
 The worst part about this bathroom is that there are four sinks and four paper towel dispensers to accommodate the stalls. You might be excited at the prospect of very clean hands, but I see inefficiency. Why place four sinks when there are only going to be three at most people peeing or pooping at any given time? There’s also an excessive amount of paper towel dispensers equal to the amount of sinks. Both these amenities take up a sizable amount of space in the joint, each on opposite sides of the room. It’s just too damn disproportionate of a receptacle:sink ratio for utmost functionality. It’s like having a hundred guns with one round of bullets. The excessive things also make the bathroom seem even more crowded than it already is and thus upsets the feng shui energy flow. Conversion of one or two of the sinks to urinals would be most efficient in my mind, but it is what it is.
 
-<img src="/uw_bathrooms/uploads/suz_3_toilet.jpg" data-lity />
+<img src="/uploads/suz_3_toilet.jpg" data-lity />
 
 Along with lacking functionality and being a little crowded, it’s the only restroom on the third floor of the Suzzallo/Allen complexes besides the ones on the north and south wings of Allen, both of which are a pretty long walk away if it’s urgent. It usually smells pretty bad due to overuse too. That and the water fountains right by it have low water pressure (there is a better one is the old metal one by the side staircase). Basically, everything about this bathroom is rather unsatisfactory, but if you’re hitting the books in the Reading Room, you really don’t have much of a choice. A meager one a three-quarters out of five and zero quarters rating shall be decreed.
 

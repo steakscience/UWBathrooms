@@ -14,10 +14,10 @@ A disproportionate amount of my time in Gould is spent in the computer lab known
 
 After fueling up primarily on coffee and, on rare occasions, other stimulants, I’ll delve into the concrete depths of the Digital Commons and be productive for two or three hours. But inevitably, my diuretic-aided bladder beckons me to act upon its best interests. Herein lies the problem. I’m locked into my work, and I want to get this done with as quickly as possible so that I can get immediately back to work so I don’t lose my focus and so that nobody steals my stuff. Because let’s face it, the person you ask to watch your stuff while you go pee real quick is probably the one that robs you while you’re gone.
 
-<img src="/uw_bathrooms/uploads/gould_b_sink.jpg" data-lity />
+<img src="/uploads/gould_b_sink.jpg" data-lity />
 
 The bathroom complementing the Digital Commons is a good facilitator of haste-making. I enjoy it very much because it’s minimally furnished with two urinals and a stall and no windows. I like it because it’s not a great bathroom at all so you want to get the hell out of there.
 
-<img src="/uw_bathrooms/uploads/gould_b_toilet.jpg" data-lity />
+<img src="/uploads/gould_b_toilet.jpg" data-lity />
 
 Which is not to say that you can’t appreciate the nuances. It’s rarely ever clean but also rarely ever dirty. It has reached equilibrium in the dirtiness spectrum and has the astonishing feature of being able to maintain this balance for extended periods of time. The basement also appears to house several faculty offices, of which the inhabitants use this restroom in harmless but typically unconventional ways, including upkeep of personal oral hygiene and a receptacle in which to soak and clean dishes, cups, and utensils. Run-ins with these faculty members are very infrequent but their presence in the basement will occasionally be let known by a lone dirty plate or cup in one of the sinks. I’ve come to appreciate these idiosyncrasies rather than scorn them as it offers much-needed respite from the never-ending onslaught of homework.

@@ -1,23 +1,23 @@
 @font-face {
-    font-family: 'Aktiv Grotesk';
-    src: url('webfonts/AktivGrotesk-Medium.woff2') format('woff2'),
-        url('webfonts/AktivGrotesk-Medium.woff') format('woff');
+    font-family: 'UW Bathrooms';
+    src: url('webfonts/UWB-Medium.woff2') format('woff2'),
+        url('webfonts/UWB-Medium.woff') format('woff');
     font-weight: 500;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'Aktiv Grotesk';
-    src: url('webfonts/AktivGrotesk-Regular.woff2') format('woff2'),
-        url('webfonts/AktivGrotesk-Regular.woff') format('woff');
+    font-family: 'UW Bathrooms';
+    src: url('webfonts/UWB-Regular.woff2') format('woff2'),
+        url('webfonts/UWB-Regular.woff') format('woff');
     font-weight: 400;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'Aktiv Grotesk';
-    src: url('webfonts/AktivGrotesk-Italic.woff2') format('woff2'),
-        url('webfonts/AktivGrotesk-Italic.woff') format('woff');
+    font-family: 'UW Bathrooms';
+    src: url('webfonts/UWB-Italic.woff2') format('woff2'),
+        url('webfonts/UWB-Italic.woff') format('woff');
     font-weight: normal;
     font-style: italic;
 }
