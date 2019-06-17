@@ -97,7 +97,8 @@ img:not([src]) {
   /*make equal to btm*/
   margin-top: 0.5rem;
 
-  cursor: pointer;
+  /*cursor: pointer;*/
+  cursor: zoom-in;
 }
 
 .lity-content img {

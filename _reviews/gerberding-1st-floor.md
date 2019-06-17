@@ -5,7 +5,7 @@ title_directory: ''
 title_long: ''
 room: 1st Floor
 review_date: 2012-11-14 17:00:00 +0000
-photo_date: 
+photo_date: 2015-12-23 17:00:00 +0000
 
 ---
 Fact: 99% of undergrads have never seen the hallowed hallways of Gerberding, which houses the administrative offices of the University. This is the White House of all buildings on campus. It’s the Lamborghini in the E1 parking lot amidst the sea of Toyota Priuses and Nissan Leaf type shit. Gerberding balls so hard that students and faculty are not allowed above the first floor, as the signs by the staircase (there are no elevators) will notify you that only employees are allowed to use them.
@@ -18,6 +18,12 @@ The interior isn’t anything particularly special, but it feels that way becaus
 
 Gerberding is first and foremost an ideal spot because of this private nature. It’s also aesthetically pleasing. It’s small and simply laid out so there’s a very straightforward and efficient walking path. It also has a really sound amount of stalls and urinals, to the point where the bathroom seems like it can accommodate a decent amount of people at once without having to wait in line without it feeling like it’s too crowded. These elements give a really relaxed atmosphere to the entire place, which is nicely juxtaposed to the aura of power and tradition that lingers about Gerberding, which comes on especially strong when you’re looking around at the millions of portraits of past administrative staff members.
 
+<img src="/uw_bathrooms/uploads/gerberding_big2.jpg" data-lity />
+<img src="/uw_bathrooms/uploads/gerberding_toilet.jpg" data-lity />
+
 You would think that in this building the custodial staff would step up their game and invest in the good toilet paper. I thought this as well and was excited to bless my bottom with some Charmin type TP, at the very least some Quilted Northern. But no, they go with the shit that’s so thin it’s translucent. It boggles my mind how paper so thin that it is a technological wonder can be so scratchy at the same time.
+
+<img src="/uw_bathrooms/uploads/gerberding_sink.jpg" data-lity />
+<img src="/uw_bathrooms/uploads/gerberding_big.jpg" data-lity />
 
 The mirror above the sinks gives a hint of opulence, as it is framed by some wood with some bas-relief stars in the top middle. As much as I wanted that wood to be some ornate mahogany or other rare hardwood, it was probably some stained maple. What a facade. It’s the thought that counts though. And when you’re thinking about where to poop after a mid-day study sesh at Suzzallo or a class near Red Square, hit up Gerberding, but only if you’re dressed for the occasion. This might be my new favorite spot on campus.

@@ -5,7 +5,7 @@ title_directory: ''
 title_long: ''
 room: 2nd Floor
 review_date: 2014-03-10 17:00:00 +0000
-photo_date: 
+photo_date: 2015-12-23 17:00:00 +0000
 
 ---
 Happy Dead Week to all.
@@ -18,6 +18,12 @@ Basically, if you’re foolish enough to attempt to be productive in Odegaard, y
 
 Odegaard got an interior renovation last year to celebrate its 40th year of existence. This was much needed because the place was pretty shabby looking and the bathrooms ran par with truck stop gas stations in terms of quality. It was really a shock despite all the renovations being done that the bathrooms essentially remained unchanged. If Michael K. Young or any other member of the ad board had gone inside the 1st floor bathroom for more than 0.2 seconds they likely would have hired a demolition team to blow the thing up and start from scratch just to render that it extinct for the rest of time, but they didn’t because the administrative building has kickass bathrooms (one of which I reviewed a while back) and never had to bother, so now the new Ode bathrooms are virtually unchanged.
 
+<img src="/uw_bathrooms/uploads/ode_2_big.jpg" data-lity />
+
 Needless to say I was incredibly disappointed with my experience in Odegaard 2. For one it’s small, with only two urinals, two sinks, and a stall. The other glaring issue is the fact that the urinals are in the direct line of sight from the door, so to compensate for this, a divider was installed to obstruct the view. This in turn makes an incredibly awkward urinal corral with a narrow enough entrance that you get uncomfortably close to passersby. It didn’t really smell that great either because it’s a small bathroom handling a large and constant stream of traffic day after day. It just doesn’t work.
 
+<img src="/uw_bathrooms/uploads/ode_2_urinal.jpg" data-lity />
+
 At the end of the day, Odegaard is just a terrible place in general and its bathrooms are no exception, even after an extensive interior remodeling. There should be no reason for anyone to ever go in there unless you’re checking out a book. It’s loud and crowded and you won’t get work done due to the innumerable distractions at hand. The University of Washington has thirteen other libraries all across campus, and all of them are infinitely better than Odegaard as places to study. If you need to study until 2am then just do it at your house or don’t procrastinate. There’s no reason you should ever be here, unless you lack any shred self-respect (which explains why I’m here).
+
+<img src="/uw_bathrooms/uploads/ode_2_toilet.jpg" data-lity />

@@ -14,7 +14,7 @@ So much has transpired since [my last contribution](https://sixfingeredamish.git
 
 As a matter of reintroduction, I attended the University of Washington at the beginning of my undergraduate career. Many weird things came to pass during my two years in Seattle. I met a handful of new friends, but I mostly bore close witness to the college-aged lives of some best friends from my hometown. That experience was not unlike watching the Toy Story trilogy play out before me — people and relationships shifting uncomfortably, the swilling of firewater, the shaving of heads, the power and the glory. All entirely fueled by compulsory King County Metro passes and unwashed silverware.
 
-![](https://uwbathrooms.files.wordpress.com/2013/03/cats_ab_dg.jpeg)
+<img src="/uw_bathrooms/uploads/danny_1.jpg" data-lity />
 
 But I digress. One such new someone was Aaron, and one such strange something was the creation of this blog. The product of much running at Seattle’s favorite virtual street-ball destination ([Greenlake](https://www.youtube.com/watch?v=aMnkkn1kAgg)), the vision for UW Bathrooms has ranged from literally sophomoric humor to smartphone app development. Pipe dreams and ambitions aside, the blog experienced some unexpected glory days during May of 2012, when it became the top entry of the r/udub subreddit, as well as having approximately 2,500 views that month. With blatant hubris, I ask readers to note again the date of my [last UW Bathrooms post](https://sixfingeredamish.github.io/uw_bathrooms/reviews/paccar-1st-floor/ "Greek Week Special PACCAR – “Where the Heels Meet the Yoga Pants”").
 
@@ -22,7 +22,7 @@ It turns out that having a critically lauded and wildly popular WordPress site a
 
 Along the way, I spent a summer as a “Fulbrighter” in the United Kingdom. That turn of events might be the weirdest yet.
 
-![](https://uwbathrooms.files.wordpress.com/2013/03/img_1493.jpg)
+<img src="/uw_bathrooms/uploads/danny_2.jpg" data-lity />
 
 There were attempts to blog during this time abroad, but the prospect of anything more serious than UW Bathrooms daunted me. In an effort to return this post to its thematic intentions, the toilets of Wales were subtly different than their Yank derivatives, and may merit a retrospective if UW Bathrooms becomes resuscitated one day.
 
@@ -40,7 +40,7 @@ There are no bathrooms on the third floor of St. Robert’s Hall. Thus, during e
 
 The lights of LA County were sprawled out like diamonds. Cars driving in every direction, millions of Angelenos leading millions of lives. A strange thing to consider while using an otherwise unspectacular urinal. With window wide open and sea breeze blowing in, bathroom goers are palpably connected to the promise of the City of Angels. The bathroom’s flippant concern for privacy must be a commentary on stereotypes of municipal exhibitionism. With Sacred Heart Chapel in the foreground, the bathroom user feels a sense of reverence. When Nietzsche said that God is dead, he knew nothing of the porcelain variety.
 
-![](https://uwbathrooms.files.wordpress.com/2013/03/from_urinal-e1362518759287.jpg)
+<img src="/uw_bathrooms/uploads/danny_3.jpg" data-lity />
 
 If having your trajectory altered by coastal wind or Sunken-Gardens sunbather does not pique your interest, make use of the more discreet standie farther from aforementioned window, or one of the three boring old stalls (unused by your correspondent). I haven’t the foggiest (marine layer-iest) idea what department teaches in St. Rob’s, but it must be a popular one, as our well-located bathroom looks overworked by an evening class. Over the course of an entire semester, remaining paper towels at 6:30 PM were only noted once. Water sits in tense little puddles all over the counter. A user quickly leaves the serenity of the Bluff View for the busy halls of St. Robert’s. Life goes on and on.
 

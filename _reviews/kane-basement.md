@@ -5,20 +5,29 @@ title_directory: ''
 title_long: ''
 room: Basement
 review_date: 2012-05-20 17:00:00 +0000
-photo_date: 
+photo_date: 2015-12-23 17:00:00 +0000
 
 ---
 Apologies for a lack of any reviews last week. I accidentally forgot to drink any liquids for the last 8 days so I never peed, therefore making bathroom reviewing next to impossible. To make up for a lack of reviews, I will be reviewing a bathroom on campus as well as the ones in the house I live in. This is not just to appease you, reader, but came up as a necessity due to the amount of people that we have had over at our last two parties that pee, poop, pass out, puke or procreate (the 5 primary P’s of bathroom use) in our bathrooms. This is to let you party animals know where to do each of the P’s.
 
 To start things off, though, I revisited Kane Hall (not by choice, I have class there 4 times a week) and took the elevator down to the basement. You can take the stairs too, but they are only accessible from the outside on the east (quad-side) of the building, which you can get to from the inside from a door that lets you out right next to the stairs. Walk/elevate down and the bathroom is by the corner of the long hallway you’re in. There are signs, don’t worry.
 
+<img src="/uw_bathrooms/uploads/kane_b_entry.jpg" data-lity />
+
 The bathroom has a lot of different rooms to it. Apt metaphors for this would be the plot of Enter the Dragon and the album Enter the Wu-Tang (36 Chambers). First there’s the entryway. Nothing going on here. Hit a right and you get to the individual stalls. There were about five of them, and only one of them was used. I only peed in these guys because I initially couldn’t find the urinals. I found those later but not after discovering something quite disturbing first…
 
+<img src="/uw_bathrooms/uploads/kane_b_big.jpg" data-lity />
+
 There’s fucking asbestos in here. Asbestos as in the shit that gives people fucking lung cancer. In Kane Hall. There’s signs indicating that the bathroom is filled with this shit. Why would I want to know that I’m getting my alveolus sacs clogged with some bullshit indestructible fibers (spelled fibres if you are English)? Why would you want to make people consciously aware that they’re being exposed to something that’s been BANNED from construction? They might as well have painted the ceilings with lead-based paint. UW fucked up big time.
+
+<img src="/uw_bathrooms/uploads/kane_b_urinal.jpg" data-lity />
+<img src="/uw_bathrooms/uploads/kane_b_sink.jpg" data-lity />
 
 Once I got over the deeply troubling reality that I was exposed to some freaking asbestos for Chrissakes, I stumbled upon the urinals as I tried to locate the sinks, both of which are adjacent to one another. I took a peek to see what was up in the urinal chamber and saw only more signs warning me of asbestos. I washed my hands and headed out shortly thereafter.
 
 A couple things to take away from here. The first and most noticeable being that there weren’t a lot of users. One guy pooping and one guy using the urinal was the extent of my human contact, not to mention that this was immediately after a passing period too. The bathroom is pretty clean and well-lit. This is a friendly environment overall (if you manage to ignore the asbestos warnings). The configuration takes some getting used to, and you might die of lung cancer if you stay in here for prolonged periods of time, but this is the much better of the two Kane bathrooms due to it being way less shitty than the upstairs one in literally every aspect. Minus the asbestos part. That’s the one thing the 2nd floor Kane bathroom has going for it.
+
+***
 
 Part II of the review brings us off campus to my triplex that I share with twelve other people (technically it’s fifteen if you include the basement plex but I don’t interact with the people that live down there, let alone use their bathrooms). The breakdown of the upper plexes is the ground floor, containing three toilets and two showers and sinks, the first floor, which has one toilet and two showers and sinks, and the top floor, which is a separate lease from the middle two floors and also has one of each amenity.
 
