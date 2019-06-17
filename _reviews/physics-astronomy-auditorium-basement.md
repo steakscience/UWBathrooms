@@ -4,11 +4,13 @@ title: Physics/Astronomy Auditorium Basement
 title_directory: ''
 title_long: ''
 room: Basement
-review_date: 2012-05-23 17:00:00 +0000
+review_date: 2012-05-23T17:00:00.000+00:00
 photo_date: 
 
 ---
 Not gonna lie, I’m pretty pumped to write the review for this particular restroom. A couple things first. One, the site’s been getting more and more recommendations for both good and hilariously bad bathrooms, so we’ll start using a couple of those to close out the year. We like the feedback so keep it coming. Two, if you want to submit your own review, email it to uwbathrooms@gmail.com and if the High Council deems it worthy, you’ll get some air time. Don’t bitch at us if we don’t post it too. Go make your own blog and post whatever shit you want there. On to the review.
+
+***
 
 There’s two physics buildings on campus next to one another, but to clarify to those that are sane enough to avoid taking physics classes, this is the one with the big pendulum on the ground floor. It’s also the further east one if you have a compass and/or a reasonable sense of direction. You walk in and there’s just this ridiculous pendulum swinging around. It’s to demonstrate some sort of phenomenon explained by momentum and velocity and an assortment of coefficients, most likely. I personally hate physics so I could care less. Moving on!
 
