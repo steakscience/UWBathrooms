@@ -12,6 +12,11 @@
 	border-color: var(--purple);
 }
 
+.bg-purple {
+  background-color: var(--purple);
+  /*background-color: #f7f7f7;*/
+}
+
 .bg-yellow {
 	background-color: var(--yellow);
 	/*background-color: #f7f7f7;*/
