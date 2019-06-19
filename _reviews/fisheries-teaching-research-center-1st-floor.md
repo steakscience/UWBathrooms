@@ -16,9 +16,9 @@ But another problem arises from this. As [detailed previously](https://uwbathroo
 
 Less than 1/25th of the distance that you walked from your house to Fisheries for class lies a building called the Fisheries Teaching and Research Center. Viewed from Fisheries looking south, it has a big circular vent/window above the main entrance. It’s pretty hard to miss, considering it’s the only university building for seemingly miles around. Presumably because it’s in southwest South Campus, it’s underused and hardly anyone is in there, especially in the mornings. In my almost two years of compiled research, one of the models I have developed is as follows:
 
-<span class="tc">nb = n·b,</span>
+<span class="tc italic">nb <span style="font-style: normal;">=</span> n·b</span>
 
-where _nb_ is the number of people that access the bathrooms in any given building, _n_ is the number of people that access the building, and _b_ is a constant that accounts for the percentage of _n_ that will use the bathrooms in the building over a period of time. Since Fisheries Research has a low _n_, and since _b_ remains constant, we can predict that the frequency of bathroom use will be very low. There are many implications of a low _nb_ but privacy is the biggest result of this. After the hypothesis was developed, I went to gather some research.
+Where _nb_ is the number of people that access the bathrooms in any given building, _n_ is the number of people that access the building, and _b_ is a constant that accounts for the percentage of _n_ that will use the bathrooms in the building over a period of time. Since Fisheries Research has a low _n_, and since _b_ remains constant, we can predict that the frequency of bathroom use will be very low. There are many implications of a low _nb_ but privacy is the biggest result of this. After the hypothesis was developed, I went to gather some research.
 
 I had a particularly bad case of CIPPT this morning because I had consumed about a gallon of coffee as a result of feigning the effects of being awake for the 37 hours prior to falling sleeping last night. The Fisheries 1st floor unit wasn’t really cutting it for me after two weeks of continuous disappointment, so I went next door to FTR to see what was up.
 
