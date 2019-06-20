@@ -7,7 +7,6 @@ sections:
 - type: document
   path: _snippets/intro.md
   label: Intro
-  match: "**/*"
 - type: directory
   path: _reviews
   label: Reviews
