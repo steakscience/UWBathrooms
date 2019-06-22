@@ -39,7 +39,7 @@
 		</div>
 
 		<!-- Intro -->
-		<div class="w-100 db center bt bb b--purple bw1">
+		<div class="w-100 db center bt bb b--purple bw1" id="foreword">
 
 			<div class="mt3 mb2 center ph4 cf introWrapper" style="max-width: 65rem;">
 				
@@ -49,9 +49,9 @@
 					
 					
 						
-							<p>UW Bath­rooms was a blog started by Aaron, Danny, and Zian­na. Togeth­er, they went around campus trying differ­ent bath­rooms and wrote about their experiences.</p>
+							<p><a href="https://uwbathrooms.wordpress.com/">UW Bathrooms</a> was a blog started by Aaron, Danny, and Zian­na. Togeth­er, they went around campus trying differ­ent bath­rooms and wrote about their experiences.</p>
 
-<p>The blog ran from 2012 to 2016 and captured the zeit­geist of UW during those years. In this archive, you’ll find period mark­ers like the authors’ reac­tions to the newly reno­vated HUB and their thoughts on UW’s new gender neutral bath­rooms. You’ll also find that certain things are time­less — from CHEM 142 and the strug­gle of complet­ing ALEKS on Friday nights, to the jokes about frat boys and Paccar Hall.</p>
+<p>The blog ran from 2012 to 2016 and captured the zeit­geist of UW during those years. In this archive, you’ll find period mark­ers like the authors’ reac­tions to the newly reno­vated HUB and their thoughts on UW’s new gender neutral bath­rooms. You’ll also find that certain things are time­less — like CHEM 142 and the strug­gle of complet­ing ALEKS on Friday nights, or the jokes about frat boys and Paccar Hall.</p>
 
 <p>While UW Bath­room’s reviews were few and far between, they were always inter­est­ing and funny. This archive is a dedi­ca­tion to the blog, and to the people who made created it.</p>
 
@@ -86,7 +86,7 @@
 		</div>
 
 		<!-- Directory -->
-		<div class="w-100 db center b--purple bw1 mb5 noselect" id="directory">
+		<div class="w-100 db center b--purple bw1 mb5-ns mb3 noselect" id="directory">
 
 			<div class="mv3 center ph4 cf" style="max-width: 65rem;">
 
@@ -1187,6 +1187,30 @@
 			
 		</div>
 
+		<audio muted autoplay loop>
+  <source src="/images/uw_bathrooms.mp3" type="audio/mpeg">
+</audio>
+
+
+<div class="db w-100 cf center bt b--purple bw1 f5-ns f6 lh-title">
+
+	<div class="db center w-100 pv3 mb2 cf ph4" style="max-width: 65rem;">
+		<!-- <img src="/images/volume_off.svg" id="mute-button" class="db pointer fl" style="width: 1.5rem;" /> -->
+
+		<div class="w-50 fl">
+			<span class="fw5">UW Bathrooms</span><br>
+			2012–2016
+		</div>
+
+		<div class="w-50 fl pl3">
+			Ambient Sounds: <span id="mute-button" class="pointer">Off</span>
+		</div>
+
+	</div>
+
+
+</div>
+
 	</body>
 
 	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
@@ -1206,6 +1230,18 @@
 		  $(".read-more").css("display", "none");
 		  e.preventDefault();
 		    
+		});
+
+		$("audio").prop('muted', true);
+
+		$("#mute-button").click( function (){
+			if( $("audio").prop('muted') ) {
+		      $("audio").prop('muted', false);
+		      $(this).text("On");
+			} else {
+			  $("audio").prop('muted', true);
+		      $(this).text("Off");
+			}
 		});
 	    
 	});

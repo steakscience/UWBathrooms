@@ -81,7 +81,7 @@ img:not([src]) {
                                   supported by Chrome and Opera */
 }
 
-#detail a {
+#detail a, #home a {
   color: var(--purple);
 }
 

@@ -66,6 +66,8 @@
 
 	{% include directory.html %}
 
+	{% include footer.html %}
+
 	</body>
 
 	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
@@ -81,6 +83,18 @@
 
 		// Bind as an event handler
 		$(document).on('click', '[data-lightbox]', lity);
+
+		$("audio").prop('muted', true);
+
+		$("#mute-button").click( function (){
+			if( $("audio").prop('muted') ) {
+		      $("audio").prop('muted', false);
+		      $(this).text("On");
+			} else {
+			  $("audio").prop('muted', true);
+		      $(this).text("Off");
+			}
+		});
 	    
 	});
 
