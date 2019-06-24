@@ -4,11 +4,11 @@ title: Haikus I
 title_directory: ''
 title_long: ''
 room: Haikus
-review_date: 2013-03-11 17:00:00 +0000
+review_date: 2013-03-11T17:00:00.000+00:00
 photo_date: 
 
 ---
-**ΣΦΕ**
+## ΣΦΕ
 
 Freshmen mop the floors
 
@@ -16,7 +16,7 @@ Too loud, each Bro is blasting
 
 Tity Boi 2 Chainz
 
-**Odegaard Undergraduate Library and Learning Commons, Main Floor**
+## Odegaard Undergraduate Library and Learning Commons, Main Floor
 
 Cannot poop in here
 
