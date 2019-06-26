@@ -10,16 +10,8 @@ photo_date:
 ---
 ## ΣΦΕ
 
-Freshmen mop the floors
-
-Too loud, each Bro is blasting
-
-Tity Boi 2 Chainz
+Freshmen mop the floors<br>Too loud, each Bro is blasting<br>Tity Boi 2 Chainz
 
 ## Odegaard Undergraduate Library and Learning Commons, Main Floor
 
-Cannot poop in here
-
-A Mormon followed me in
-
-Now learning ’bout Christ
+Cannot poop in here<br>A Mormon followed me in<br>Now learning ’bout Christ
