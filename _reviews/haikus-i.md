@@ -1,6 +1,6 @@
 ---
 building: Miscellaneous
-title: Haikus I
+title: Haikus
 title_directory: ''
 title_long: ''
 room: Haikus
