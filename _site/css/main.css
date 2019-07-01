@@ -252,13 +252,14 @@ hr {
     break-inside: avoid;
 
     /*bw1*/
-    border-width: .125rem;
-    margin-top: -.125rem;
+    border-width: 1px;
+    margin-top: -1px;
 
   }
 
   hr {
-    border-top: solid .125rem;
+    /*border-top: solid .125rem;*/
+    border-top: solid 1px;
   }
 
 	@-webkit-keyframes orbit {
