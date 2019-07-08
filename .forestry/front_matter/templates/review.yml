@@ -51,6 +51,7 @@ fields:
     time_format: 
     display_utc: false
 pages:
+- _reviews/ethnic-cultural-center-1st-floor.md
 - _reviews/fishery-sciences.md
 - _reviews/chemistry-1st-floor.md
 - _reviews/gender-neutral-bathrooms.md
@@ -66,7 +67,6 @@ pages:
 - _reviews/gould-basement.md
 - _reviews/parrington-3rd-floor.md
 - _reviews/fisheries-teaching-research-center-1st-floor.md
-- _reviews/ethnic-cultural-center-1st-floor.md
 - _reviews/gowen-all.md
 - _reviews/architecture-3rd-floor.md
 - _reviews/roberts-1st-floor.md
