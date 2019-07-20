@@ -80,13 +80,13 @@ crossorigin="anonymous">
 
 					<p>UW Bathrooms readers,</p>
 
-<p>So much has tran­spired since <a href="https://uwbathrooms.github.io/reviews/paccar-1st-floor/" title="Greek Week Special PACCAR – “Where the Heels Meet the Yoga Pants”">my last contribution</a> to our blog. The pass­ing of time has had great impact not just on myself and you, but has also created a stir within UW Bath­room­s’s tiny corner of the inter­net. Before I proceed onto the review prop­er, a reflec­tion on these changes is — at the very least — a neces­si­ty. Perhaps we can make it more:</p>
+<p>So much has tran­spired since <a href="https://uwbathrooms.netlify.com/reviews/paccar-1st-floor/" title="Greek Week Special PACCAR – “Where the Heels Meet the Yoga Pants”">my last contribution</a> to our blog. The pass­ing of time has had great impact not just on myself and you, but has also created a stir within UW Bath­room­s’s tiny corner of the inter­net. Before I proceed onto the review prop­er, a reflec­tion on these changes is — at the very least — a neces­si­ty. Perhaps we can make it more:</p>
 
 <p>As a matter of rein­tro­duc­tion, I attended the Univer­sity of Wash­ing­ton at the begin­ning of my under­grad­u­ate career. Many weird things came to pass during my two years in Seat­tle. I met a hand­ful of new friends, but I mostly bore close witness to the college-aged lives of some best friends from my home­town. That expe­ri­ence was not unlike watch­ing the Toy Story tril­ogy play out before me — people and rela­tion­ships shift­ing uncom­fort­ably, the swill­ing of fire­wa­ter, the shav­ing of heads, the power and the glory. All entirely fueled by compul­sory King County Metro passes and unwashed silverware.</p>
 
 <p><img src="/uploads/danny_1.jpg" data-lity=""></p>
 
-<p>But I digress. One such new some­one was Aaron, and one such strange some­thing was the creation of this blog. The prod­uct of much running at Seat­tle’s favorite virtual street-ball desti­na­tion (<a href="https://www.youtube.com/watch?v=aMnkkn1kAgg">Greenlake</a>), the vision for UW Bath­rooms has ranged from liter­ally sopho­moric humor to smart­phone app devel­op­ment. Pipe dreams and ambi­tions aside, the blog expe­ri­enced some unex­pected glory days during May of 2012, when it became the top entry of the r/udub subred­dit, as well as having approx­i­mately 2,500 views that month. With blatant hubris, I ask read­ers to note again the date of my <a href="https://uwbathrooms.github.io/reviews/paccar-1st-floor/" title="Greek Week Special PACCAR – “Where the Heels Meet the Yoga Pants”">last UW Bath­rooms post</a>.</p>
+<p>But I digress. One such new some­one was Aaron, and one such strange some­thing was the creation of this blog. The prod­uct of much running at Seat­tle’s favorite virtual street-ball desti­na­tion (<a href="https://www.youtube.com/watch?v=aMnkkn1kAgg">Greenlake</a>), the vision for UW Bath­rooms has ranged from liter­ally sopho­moric humor to smart­phone app devel­op­ment. Pipe dreams and ambi­tions aside, the blog expe­ri­enced some unex­pected glory days during May of 2012, when it became the top entry of the r/udub subred­dit, as well as having approx­i­mately 2,500 views that month. With blatant hubris, I ask read­ers to note again the date of my <a href="https://uwbathrooms.netlify.com/reviews/paccar-1st-floor/" title="Greek Week Special PACCAR – “Where the Heels Meet the Yoga Pants”">last UW Bath­rooms post</a>.</p>
 
 <p>It turns out that having a crit­i­cally lauded and wildly popu­lar Word­Press site about toilets does not provide the sort of fulfill­ment I antic­i­pated when I matric­u­lated at UW. For reasons either too numer­ous or too personal to list on a near-de­funct blog (if a griev­ance goes unread on the inter­net, does it make a sound?), I sought trans­fer to a new college.</p>
 
@@ -166,16 +166,7 @@ crossorigin="anonymous">
 
   var popup = new mapboxgl.Popup({ offset: [0, -15] })
     .setLngLat(feature.geometry.coordinates)
-    
 	.setHTML('<h3>' + feature.properties.building + '</h3><p><a href="' + feature.properties.url + '">' + feature.properties.room + '</a></p>')
-	
-	// if doesnt have room2
-	// if (!feature.properties.room2) {
-	// 	.setHTML('<h3>' + feature.properties.building + '</h3><p><a href="' + feature.properties.url + '">' + feature.properties.room + '</a></p>');
-	// } else {
-	// 	.setHTML('<h3>' + feature.properties.building + '</h3><p><a href="' + feature.properties.url + '">' + feature.properties.room + '</a></p>' + '<p><a href="' + feature.properties.url2 + '">' + feature.properties.room2 + '</a></p>');
-	// }
-	 
     .setLngLat(feature.geometry.coordinates)
     .addTo(map);
 });

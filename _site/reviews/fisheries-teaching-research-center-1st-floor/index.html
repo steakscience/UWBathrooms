@@ -82,7 +82,7 @@ crossorigin="anonymous">
 
 <p>So how do we, as the student body, cope with this? As long as the envi­ron­men­tal science, fish­eries, and oceanog­ra­phy depart­ments keep receiv­ing fund­ing, some of us will have acad­emic reasons to go to the faraway lands of South Campus, and with increas­ing enroll­ment, human pres­ence in these build­ings are not going to lessen any time soon. One alter­na­tive is to avoid science majors alto­geth­er, but this has far-reach­ing soci­etal impli­ca­tions that, arguably, over­shad­ows the issue of FSH being far away from all your other class­es. Looks like we’re going to have to deal with it.</p>
 
-<p>But another prob­lem arises from this. As <a href="https://uwbathrooms.github.io/reviews/fishery-sciences/">detailed previously</a> at UW Bath­rooms, the first floor bath­room in Fish­eries is atro­cious! So not only are you tired and irri­tated from walk­ing 25 minutes to your only class of the day, you can’t even have a good coffee-in­duced pee-pee time (aka CIPPT, pronounced <em>sipped</em>) after your lecture on fish or what­ev­er. Combined, these two incon­ve­niences are incon­ve­nient enough to make a Face­book status regard­ing how badly your day is going and illicit multi­ple sympa­thetic comments. So where do you go pee in Fish­eries? You don’t.</p>
+<p>But another prob­lem arises from this. As <a href="https://uwbathrooms.netlify.com/reviews/fishery-sciences/">detailed previously</a> at UW Bath­rooms, the first floor bath­room in Fish­eries is atro­cious! So not only are you tired and irri­tated from walk­ing 25 minutes to your only class of the day, you can’t even have a good coffee-in­duced pee-pee time (aka CIPPT, pronounced <em>sipped</em>) after your lecture on fish or what­ev­er. Combined, these two incon­ve­niences are incon­ve­nient enough to make a Face­book status regard­ing how badly your day is going and illicit multi­ple sympa­thetic comments. So where do you go pee in Fish­eries? You don’t.</p>
 
 <p>Less than 1/25th of the distance that you walked from your house to Fish­eries for class lies a build­ing called the Fish­eries Teach­ing and Research Center. Viewed from Fish­eries look­ing south, it has a big circu­lar vent/win­dow above the main entrance. It’s pretty hard to miss, consid­er­ing it’s the only univer­sity build­ing for seem­ingly miles around. Presum­ably because it’s in south­west South Campus, it’s under­used and hardly anyone is in there, espe­cially in the morn­ings. In my almost two years of compiled research, one of the models I have devel­oped is as follows:</p>
 
@@ -142,16 +142,7 @@ crossorigin="anonymous">
 
   var popup = new mapboxgl.Popup({ offset: [0, -15] })
     .setLngLat(feature.geometry.coordinates)
-    
 	.setHTML('<h3>' + feature.properties.building + '</h3><p><a href="' + feature.properties.url + '">' + feature.properties.room + '</a></p>')
-	
-	// if doesnt have room2
-	// if (!feature.properties.room2) {
-	// 	.setHTML('<h3>' + feature.properties.building + '</h3><p><a href="' + feature.properties.url + '">' + feature.properties.room + '</a></p>');
-	// } else {
-	// 	.setHTML('<h3>' + feature.properties.building + '</h3><p><a href="' + feature.properties.url + '">' + feature.properties.room + '</a></p>' + '<p><a href="' + feature.properties.url2 + '">' + feature.properties.room2 + '</a></p>');
-	// }
-	 
     .setLngLat(feature.geometry.coordinates)
     .addTo(map);
 });

@@ -139,16 +139,7 @@ crossorigin="anonymous">
 
   var popup = new mapboxgl.Popup({ offset: [0, -15] })
     .setLngLat(feature.geometry.coordinates)
-    
 	.setHTML('<h3>' + feature.properties.building + '</h3><p><a href="' + feature.properties.url + '">' + feature.properties.room + '</a></p>')
-	
-	// if doesnt have room2
-	// if (!feature.properties.room2) {
-	// 	.setHTML('<h3>' + feature.properties.building + '</h3><p><a href="' + feature.properties.url + '">' + feature.properties.room + '</a></p>');
-	// } else {
-	// 	.setHTML('<h3>' + feature.properties.building + '</h3><p><a href="' + feature.properties.url + '">' + feature.properties.room + '</a></p>' + '<p><a href="' + feature.properties.url2 + '">' + feature.properties.room2 + '</a></p>');
-	// }
-	 
     .setLngLat(feature.geometry.coordinates)
     .addTo(map);
 });
