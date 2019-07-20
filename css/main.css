@@ -129,6 +129,41 @@ img:not([src]) {
           column-gap: 2rem;
 }
 
+/* map */
+
+@media screen and (min-width: 20em) {
+  #map { 
+    height: 25rem; 
+  }
+}
+
+@media screen and (min-width: 35em) {
+  #map { 
+    height: 35rem; 
+  }
+}
+
+
+.mapboxgl-map {
+  font-family: 'UW Bathrooms', sans-serif;
+  font-size: 14px !important;
+  margin-top: 0rem;
+  margin-bottom: 0rem;
+}
+
+.mapboxgl-popup-content {
+  width: 11rem;
+  max-width: none;
+  padding: 1rem;
+}
+
+.mapboxgl-popup-content h3, .mapboxgl-popup-content p {
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+/* animation stuff */
+
 @-webkit-keyframes orbit {
   from {
     -webkit-transform: rotate(0deg) translateX(5px) rotate(0deg); }
@@ -371,10 +406,6 @@ hr {
 
 #home .list li:last-child, #detail .list li:last-child {
   margin-bottom: 0;
-}
-
-#mapid { 
-  height: 500px; 
 }
 
 .introWrapper {

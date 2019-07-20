@@ -10,6 +10,7 @@
 	<meta name="description" content="Happy Dead Week to all.">
 
 	<link rel="stylesheet" href="/css/tachyons.css">
+	<link href='https://api.tiles.mapbox.com/mapbox-gl-js/v1.1.1/mapbox-gl.css' rel='stylesheet' />
 	<link rel="stylesheet" href="/css/main.css">
 	<link rel="stylesheet" href="/css/fonts.css">
 	<link rel="stylesheet" href="/css/all.min.css">
@@ -17,12 +18,13 @@
 	<link rel="canonical" href="http://localhost:4000/reviews/odegaard-2nd-floor/">
 
 	<!-- leaflet -->
-	 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css"
-   integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
-   crossorigin=""/>
-   	<script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js"
-   integrity="sha512-GffPMF3RvMeYyc1LWMHtK8EbPv0iNZ8/oTtHPx9/cc2ILxQ+u905qIwdpULaqDkyBKgOaB57QTMg7ztg8Jm2Og=="
-   crossorigin=""></script>
+   	<script src='https://api.tiles.mapbox.com/mapbox-gl-js/v1.1.1/mapbox-gl.js'></script>
+
+	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+integrity="sha256-3edrmyuQ0w65f8gfBsqowzjJe2iM6n0nKciPUp8y+7E="
+crossorigin="anonymous">
+</script>
+	
 
 </head>
 
@@ -106,8 +108,70 @@
 		
 	</div>
 
+			<!-- Map -->
+		<div class="w-100 db center noselect mb4 mt3">
+
+			<div class="mv3 center ph4 cf" style="max-width: 65rem;">
+
+				<h1 class="f4-ns f5 mb2">Map</h1>
+
+				 <div id="map" class="ba b--purple bw1"></div>
+
+				 <script>
+					// initialize
+					 mapboxgl.accessToken = 'pk.eyJ1Ijoic2l4ZmluZ2VyZWRhbWlzaCIsImEiOiJjanliaWxjdWgwOXNzM2NxbWN1MnF0cGM1In0.peln-bsm2JayTz08X-u7Hg';
+					var map = new mapboxgl.Map({
+					container: 'map',
+					style: 'mapbox://styles/sixfingeredamish/cjybio43q0mn81cp8im8qb8x1?optimize=true',
+					attributionControl: false
+					});
+
+					// interactive
+					map.on('click', function(e) {
+  var features = map.queryRenderedFeatures(e.point, {
+    layers: ['uw-bathrooms'] // replace this with the name of the layer
+  });
+
+  if (!features.length) {
+    return;
+  }
+
+  var feature = features[0];
+
+  var popup = new mapboxgl.Popup({ offset: [0, -15] })
+    .setLngLat(feature.geometry.coordinates)
+    
+	.setHTML('<h3>' + feature.properties.building + '</h3><p><a href="' + feature.properties.url + '">' + feature.properties.room + '</a></p>')
+	
+	// if doesnt have room2
+	// if (!feature.properties.room2) {
+	// 	.setHTML('<h3>' + feature.properties.building + '</h3><p><a href="' + feature.properties.url + '">' + feature.properties.room + '</a></p>');
+	// } else {
+	// 	.setHTML('<h3>' + feature.properties.building + '</h3><p><a href="' + feature.properties.url + '">' + feature.properties.room + '</a></p>' + '<p><a href="' + feature.properties.url2 + '">' + feature.properties.room2 + '</a></p>');
+	// }
+	 
+    .setLngLat(feature.geometry.coordinates)
+    .addTo(map);
+});
+
+map.addControl(new mapboxgl.NavigationControl({
+    // Hide rotation control.
+    showCompass: false
+}), 'top-left');
+
+map.addControl(new mapboxgl.AttributionControl({
+	compact: true
+}));
+
+
+				 </script>
+
+
+			</div>
+			
+		</div>
 	<!-- Directory -->
-		<div class="w-100 db center b--purple bw1 mb5-ns mb3 noselect" id="directory">
+		<div class="w-100 db center bt b--purple bw1 mb5-ns mb3 noselect" id="directory">
 
 			<div class="mv3 center ph4 cf" style="max-width: 65rem;">
 
@@ -1233,11 +1297,6 @@
 </div>
 
 	</body>
-
-	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
-    integrity="sha256-3edrmyuQ0w65f8gfBsqowzjJe2iM6n0nKciPUp8y+7E="
-    crossorigin="anonymous">
-  	</script>
 
   	<script src="/css/lity.js"></script>
 
