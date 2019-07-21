@@ -163,7 +163,7 @@ img:not([src]) {
 }
 
 .mapboxgl-ctrl-logo, .mapbox-improve-map {
-  display: none;
+  display: none !important;
 }
 
 /* animation stuff */
