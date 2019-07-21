@@ -162,6 +162,10 @@ img:not([src]) {
   margin-top: 0;
 }
 
+.mapboxgl-ctrl-logo, .mapbox-improve-map {
+  display: none;
+}
+
 /* animation stuff */
 
 @-webkit-keyframes orbit {
