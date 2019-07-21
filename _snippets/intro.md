@@ -6,7 +6,7 @@ title: Intro
 
 The blog ran from 2012 to 2016 and captured the zeitgeist of UW during those years. In this archive, you’ll find period markers like the authors’ reactions to the newly renovated HUB and their thoughts on UW’s new gender neutral bathrooms. You’ll also find that certain things are timeless — like CHEM 142 and the struggle of completing ALEKS on Friday nights, or the jokes about frat boys and Paccar Hall.
 
-While UW Bathroom’s reviews were few and far between, they were always interesting and funny. This archive is a dedication to the blog, and to the people who made created it.
+While UW Bathroom’s reviews were few and far between, they were always interesting and funny. This archive is a dedication to the blog, and to the people who created it.
 
 ***
 
