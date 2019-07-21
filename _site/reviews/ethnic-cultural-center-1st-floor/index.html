@@ -18,7 +18,7 @@
 	<link rel="canonical" href="http://localhost:4000/reviews/ethnic-cultural-center-1st-floor/">
 
 	<!-- leaflet -->
-   	<script src='https://api.tiles.mapbox.com/mapbox-gl-js/v1.1.1/mapbox-gl.js'></script>
+   	<script preload src='https://api.tiles.mapbox.com/mapbox-gl-js/v1.1.1/mapbox-gl.js'></script>
 
 	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
 integrity="sha256-3edrmyuQ0w65f8gfBsqowzjJe2iM6n0nKciPUp8y+7E="
@@ -131,27 +131,523 @@ crossorigin="anonymous">
 					// initialize
 					 mapboxgl.accessToken = 'pk.eyJ1Ijoic2l4ZmluZ2VyZWRhbWlzaCIsImEiOiJjanliaWxjdWgwOXNzM2NxbWN1MnF0cGM1In0.peln-bsm2JayTz08X-u7Hg';
 					var map = new mapboxgl.Map({
-					container: 'map',
-					style: 'mapbox://styles/sixfingeredamish/cjybio43q0mn81cp8im8qb8x1?optimize=true',
-					attributionControl: false
+						container: 'map',
+						style: 'mapbox://styles/sixfingeredamish/cjybio43q0mn81cp8im8qb8x1?optimize=true',
+						attributionControl: false
+					});
+
+					// add data
+					// https://docs.mapbox.com/mapbox-gl-js/example/popup-on-click/
+					map.on('load', function () {
+						// Add a layer showing the places.
+						map.addLayer({
+							"id": "places",
+							"type": "circle",
+							"source": {
+								"type": "geojson",
+								"data": {
+									"features": [
+										{
+										"type": "Feature",
+										"properties": {
+											"url": "/reviews/gerberding-1st-floor/",
+											"building": "Gerberding",
+											"room": "1st Floor"
+										},
+										"geometry": {
+											"coordinates": [
+											-122.309295,
+											47.655345
+											],
+											"type": "Point"
+										},
+										"id": "02c7048979cb0a2ec66df86f1b4d9f8f"
+										},
+										{
+										"type": "Feature",
+										"properties": {
+											"building": "Architecture",
+											"room": "3rd Floor",
+											"url": "/reviews/architecture-3rd-floor/"
+										},
+										"geometry": {
+											"coordinates": [
+											-122.310864,
+											47.654589
+											],
+											"type": "Point"
+										},
+										"id": "066ff3a6ccc7e8ca09235d52d0df7498"
+										},
+										{
+										"type": "Feature",
+										"properties": {
+											"building": "Kane",
+											"room": "2nd Floor",
+											"room2": "Basement",
+											"url": "/reviews/kane/",
+											"url2": "/reviews/kane-basement/"
+										},
+										"geometry": {
+											"coordinates": [
+											-122.309343,
+											47.65646
+											],
+											"type": "Point"
+										},
+										"id": "162bd12b7e7a241e9bec804ffb4eb624"
+										},
+										{
+										"type": "Feature",
+										"properties": {
+											"url": "/reviews/winkenwerder/",
+											"building": "Winkenwerder",
+											"room": "1st Floor"
+										},
+										"geometry": {
+											"coordinates": [
+											-122.306871,
+											47.651484
+											],
+											"type": "Point"
+										},
+										"id": "164afe45090d87ea6da0d67de9cb25f5"
+										},
+										{
+										"type": "Feature",
+										"properties": {
+											"room": "2nd Floor",
+											"building": "Odegaard",
+											"url": "/reviews/odegaard-2nd-floor/"
+										},
+										"geometry": {
+											"coordinates": [
+											-122.310268,
+											47.65645
+											],
+											"type": "Point"
+										},
+										"id": "386f6d3fa8e242d708d8bbe0caa99f8f"
+										},
+										{
+										"type": "Feature",
+										"properties": {
+											"url": "/reviews/gates/",
+											"building": "Gates",
+											"room": "Basement"
+										},
+										"geometry": {
+											"coordinates": [
+											-122.310604,
+											47.659168
+											],
+											"type": "Point"
+										},
+										"id": "3fedc93521f36b94c012ade0b48ebc7b"
+										},
+										{
+										"type": "Feature",
+										"properties": {
+											"url": "/reviews/sieg-1st-floor/",
+											"building": "Sieg",
+											"room": "1st Floor"
+										},
+										"geometry": {
+											"coordinates": [
+											-122.306565,
+											47.654898
+											],
+											"type": "Point"
+										},
+										"id": "4be64c94aeeeac7c2427aea9fdc8314f"
+										},
+										{
+										"type": "Feature",
+										"properties": {
+											"url": "/reviews/fishery-sciences/",
+											"building": "Fisheries",
+											"room": "1st Floor"
+										},
+										"geometry": {
+											"coordinates": [
+											-122.316202,
+											47.653235
+											],
+											"type": "Point"
+										},
+										"id": "51bf070ba80aac1b2cca07c01bbf0335"
+										},
+										{
+										"type": "Feature",
+										"properties": {
+											"building": "Hutchinson",
+											"room": "1st Floor",
+											"room2": "1st Floor (F)",
+											"url": "/reviews/hutchinson-1st-floor/",
+											"url2": "/reviews/hutchinson-1st-floor-womens/"
+										},
+										"geometry": {
+											"coordinates": [
+											-122.306441,
+											47.659469
+											],
+											"type": "Point"
+										},
+										"id": "54c0b57b2b2e3995b445ab4ba490c2d0"
+										},
+										{
+										"type": "Feature",
+										"properties": {
+											"url": "/reviews/roberts-1st-floor/",
+											"building": "Roberts",
+											"room": "1st Floor"
+										},
+										"geometry": {
+											"coordinates": [
+											-122.305003,
+											47.652107
+											],
+											"type": "Point"
+										},
+										"id": "5a06eb4a2b306d7f795e779a32def786"
+										},
+										{
+										"type": "Feature",
+										"properties": {
+											"url": "/reviews/chemistry-1st-floor/",
+											"room": "1st Floor",
+											"building": "Chemistry"
+										},
+										"geometry": {
+											"coordinates": [
+											-122.308278,
+											47.653039
+											],
+											"type": "Point"
+										},
+										"id": "6d89270477ed613c891e4a0e9325395f"
+										},
+										{
+										"type": "Feature",
+										"properties": {
+											"building": "Alder",
+											"room": "1st Floor",
+											"url": "/reviews/alder-1st-floor/"
+										},
+										"geometry": {
+											"coordinates": [
+											-122.313744,
+											47.65563
+											],
+											"type": "Point"
+										},
+										"id": "73d6ae2d8abbf9e353d2e96f021d90d1"
+										},
+										{
+										"type": "Feature",
+										"properties": {
+											"building": "Bagley",
+											"url": "/reviews/bagley/",
+											"room": "2nd Floor"
+										},
+										"geometry": {
+											"coordinates": [
+											-122.308712,
+											47.653508
+											],
+											"type": "Point"
+										},
+										"id": "8ffd57d1921e24bcce62bc29951cb08e"
+										},
+										{
+										"type": "Feature",
+										"properties": {
+											"url": "/reviews/guthrie-1st-floor/",
+											"building": "Guthrie",
+											"room": "1st Floor"
+										},
+										"geometry": {
+											"coordinates": [
+											-122.31078,
+											47.654048
+											],
+											"type": "Point"
+										},
+										"id": "912373eb3fa20d3585842db49e587993"
+										},
+										{
+										"type": "Feature",
+										"properties": {
+											"url": "/reviews/miller-3rd-floor/",
+											"building": "Miller",
+											"room": "3rd Floor"
+										},
+										"geometry": {
+											"coordinates": [
+											-122.306264,
+											47.65725
+											],
+											"type": "Point"
+										},
+										"id": "959c1709db4a1566586668b351081c92"
+										},
+										{
+										"type": "Feature",
+										"properties": {
+											"url": "/reviews/paccar-1st-floor/",
+											"building": "Paccar",
+											"room": "1st Floor"
+										},
+										"geometry": {
+											"coordinates": [
+											-122.30862,
+											47.659178
+											],
+											"type": "Point"
+										},
+										"id": "98980fa86a566d2ba16fc5ee5cc00056"
+										},
+										{
+										"type": "Feature",
+										"properties": {
+											"url": "/reviews/suzzallo-3rd-floor/",
+											"building": "Suzzallo",
+											"room": "3rd Floor"
+										},
+										"geometry": {
+											"coordinates": [
+											-122.308364,
+											47.655769
+											],
+											"type": "Point"
+										},
+										"id": "98ef3ea5083bed8990436d19c392dd84"
+										},
+										{
+										"type": "Feature",
+										"properties": {
+											"url": "/reviews/fisheries-teaching-research-center-1st-floor/",
+											"building": "Fisheries Teaching & Research Center",
+											"room": "1st Floor"
+										},
+										"geometry": {
+											"coordinates": [
+											-122.31543,
+											47.652611
+											],
+											"type": "Point"
+										},
+										"id": "a2bf57abf678d9c1a76d5d6f191094a2"
+										},
+										{
+										"type": "Feature",
+										"properties": {
+											"url": "/reviews/hec-ed/",
+											"building": "Hec Ed",
+											"room": "Locker Room"
+										},
+										"geometry": {
+											"coordinates": [
+											-122.302345,
+											47.652217
+											],
+											"type": "Point"
+										},
+										"id": "a465beca3a569b3b843c8a940806a253"
+										},
+										{
+										"type": "Feature",
+										"properties": {
+											"url": "/reviews/ethnic-cultural-center-1st-floor/",
+											"building": "Ethnic Cultural Center",
+											"room": "1st Floor"
+										},
+										"geometry": {
+											"coordinates": [
+											-122.314753,
+											47.655143
+											],
+											"type": "Point"
+										},
+										"id": "ad5854704258780d2d22c67f440cbc18"
+										},
+										{
+										"type": "Feature",
+										"properties": {
+											"url": "/reviews/communications-2nd-floor/",
+											"room": "2nd Floor",
+											"building": "Communications"
+										},
+										"geometry": {
+											"coordinates": [
+											-122.305526,
+											47.656876
+											],
+											"type": "Point"
+										},
+										"id": "b77ed9e554b096f5baaa440c93da7fb9"
+										},
+										{
+										"type": "Feature",
+										"properties": {
+											"url": "/reviews/physics-astronomy-auditorium-basement/",
+											"building": "Physics/Astronomy Auditorium",
+											"room": "Basement"
+										},
+										"geometry": {
+											"coordinates": [
+											-122.31087,
+											47.65305
+											],
+											"type": "Point"
+										},
+										"id": "c9d65002d1bb5a8886ad8eeb81439a6f"
+										},
+										{
+										"type": "Feature",
+										"properties": {
+											"building": "HUB",
+											"room": "B1",
+											"url": "/reviews/hub-b1/"
+										},
+										"geometry": {
+											"coordinates": [
+											-122.305166,
+											47.655423
+											],
+											"type": "Point"
+										},
+										"id": "cd35d5e75fb5b283e4f1d7fc226d63c7"
+										},
+										{
+										"type": "Feature",
+										"properties": {
+											"url": "/reviews/eagleson-1st-floor/",
+											"room": "1st Floor",
+											"building": "Eagleson"
+										},
+										"geometry": {
+											"coordinates": [
+											-122.312296,
+											47.658134
+											],
+											"type": "Point"
+										},
+										"id": "d3c6f30afd46b506a7a83a4aadd4008d"
+										},
+										{
+										"type": "Feature",
+										"properties": {
+											"url": "/reviews/gould-1st-floor/",
+											"building": "Gould",
+											"room": "1st Floor",
+											"room2": "Basement",
+											"url2": "/reviews/gould-basement/"
+										},
+										"geometry": {
+											"coordinates": [
+											-122.312523,
+											47.654971
+											],
+											"type": "Point"
+										},
+										"id": "dd18e9ed4a45b7014da3d94673ec4ec6"
+										},
+										{
+										"type": "Feature",
+										"properties": {
+											"url": "/reviews/engineering-library-3rd-floor/",
+											"building": "Engineering Library",
+											"room": "3rd Floor"
+										},
+										"geometry": {
+											"coordinates": [
+											-122.304627,
+											47.654649
+											],
+											"type": "Point"
+										},
+										"id": "de9a0507f35cb79d669a5bb327def75f"
+										},
+										{
+										"type": "Feature",
+										"properties": {
+											"url": "/reviews/parrington-2nd-floor/",
+											"building": "Parrington",
+											"room": "2nd Floor",
+											"room2": "3rd Floor",
+											"url2": "/reviews/parrington-3rd-floor/"
+										},
+										"geometry": {
+											"coordinates": [
+											-122.310157,
+											47.657461
+											],
+											"type": "Point"
+										},
+										"id": "e5b98f90dfc295d2ef36f00ffa5c1cf6"
+										},
+										{
+										"type": "Feature",
+										"properties": {
+											"url": "/reviews/smith-1st-floor/",
+											"building": "Smith",
+											"room": "1st Floor"
+										},
+										"geometry": {
+											"coordinates": [
+											-122.307058,
+											47.656699
+											],
+											"type": "Point"
+										},
+										"id": "f7a7660d55100ff9df776e506dc12dcb"
+										},
+										{
+										"type": "Feature",
+										"properties": {
+											"url": "/reviews/gowen-all/",
+											"room": "1st & 2nd Floors",
+											"building": "Gowen"
+										},
+										"geometry": {
+											"coordinates": [
+											-122.307641,
+											47.656318
+											],
+											"type": "Point"
+										},
+										"id": "f86a3ef62e3bf8ea60e9415a087a3c5d"
+										}
+									],
+									"type": "FeatureCollection"
+									}
+								},
+							"paint": {
+								"circle-radius": 9,
+								"circle-color": "#d4cae7"
+							}
+						});
 					});
 
 					// interactive
-					map.on('click', function(e) {
-						var features = map.queryRenderedFeatures(e.point, {
-							layers: ['uw-bathrooms']
-						});
+					map.on('click', 'places', function (e) {
+						var coordinates = e.features[0].geometry.coordinates.slice();
+						var building = e.features[0].properties.building;
+						var room = e.features[0].properties.room;
+						var url = e.features[0].properties.url;
 
-						if (!features.length) {
-							return;
+						if (e.features[0].properties.room2) {
+							var room2 = e.features[0].properties.room2;
+							var url2 = e.features[0].properties.url2;
+							var popupHTML = '<h3>' + building + '</h3><p><a href="' + url + '">' + room + '</a></p><p><a href="' + url2 + '">' + room2 + '</a></p>';
+						} else {
+							var popupHTML = '<h3>' + building + '</h3><p><a href="' + url + '">' + room + '</a></p>';
 						}
 
-						var feature = features[0];
-						
-						var popup = new mapboxgl.Popup({ offset: [0, -15] })
-							.setLngLat(feature.geometry.coordinates)
-							.setHTML('<h3>' + feature.properties.building + '</h3><p><a href="' + feature.properties.url + '">' + feature.properties.room + '</a></p>')
-							.setLngLat(feature.geometry.coordinates)
+						new mapboxgl.Popup()
+							.setLngLat(coordinates)
+							.setHTML(popupHTML)
 							.addTo(map);
 
 					});
