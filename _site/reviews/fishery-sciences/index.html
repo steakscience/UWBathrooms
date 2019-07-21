@@ -144,31 +144,32 @@ crossorigin="anonymous">
 
 					// interactive
 					map.on('click', function(e) {
-  var features = map.queryRenderedFeatures(e.point, {
-    layers: ['uw-bathrooms'] // replace this with the name of the layer
-  });
+						var features = map.queryRenderedFeatures(e.point, {
+							layers: ['uw-bathrooms']
+						});
 
-  if (!features.length) {
-    return;
-  }
+						if (!features.length) {
+							return;
+						}
 
-  var feature = features[0];
+						var feature = features[0];
+						
+						var popup = new mapboxgl.Popup({ offset: [0, -15] })
+							.setLngLat(feature.geometry.coordinates)
+							.setHTML('<h3>' + feature.properties.building + '</h3><p><a href="' + feature.properties.url + '">' + feature.properties.room + '</a></p>')
+							.setLngLat(feature.geometry.coordinates)
+							.addTo(map);
 
-  var popup = new mapboxgl.Popup({ offset: [0, -15] })
-    .setLngLat(feature.geometry.coordinates)
-	.setHTML('<h3>' + feature.properties.building + '</h3><p><a href="' + feature.properties.url + '">' + feature.properties.room + '</a></p>')
-    .setLngLat(feature.geometry.coordinates)
-    .addTo(map);
-});
+					});
 
-map.addControl(new mapboxgl.NavigationControl({
-    // Hide rotation control.
-    showCompass: false
-}), 'top-left');
+					map.addControl(new mapboxgl.NavigationControl({
+						// Hide rotation control.
+						showCompass: false
+					}), 'top-left');
 
-map.addControl(new mapboxgl.AttributionControl({
-	compact: true
-}));
+					map.addControl(new mapboxgl.AttributionControl({
+						compact: true
+					}));
 
 
 				 </script>
