@@ -22,6 +22,7 @@ group :jekyll_plugins do
   # gem "jekyll-feed", "~> 0.6"
   gem 'jekyll-typogrify'
   gem 'jekyll-hyphenate_filter', '~> 0.0.2'
+  gem "kramdown", ">= 2.3.1"
 
 end
 

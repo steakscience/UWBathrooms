@@ -41,7 +41,7 @@ GEM
       typogruby
     jekyll-watch (2.2.1)
       listen (~> 3.0)
-    kramdown (2.3.0)
+    kramdown (2.3.1)
       rexml
     liquid (4.0.3)
     listen (3.4.1)
@@ -84,6 +84,7 @@ DEPENDENCIES
   jekyll (~> 3)
   jekyll-hyphenate_filter (~> 0.0.2)
   jekyll-typogrify
+  kramdown (>= 2.3.1)
   minima (~> 2.0)
   tzinfo-data
 
